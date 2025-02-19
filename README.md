@@ -44,7 +44,7 @@ Run `notebook_analysis.ipynb` in Jupyter Notebook to explore the dataset, genera
 - NumPy
 - Matplotlib
 - Seaborn
-- 
+
 ## Contribution
 Feel free to contribute to this project by submitting issues, feature requests, or pull requests.
 
