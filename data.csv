@@ -1,0 +1,1001 @@
+Nama_Lokasi,Jam_Login,Nama,Email,No_Telp,Tahun_Lahir,Merk_Hp,Digital_Interest,Location Type
+Bandung,3:44,User_1,user1@gmail.com,87695329652,2002,Redmi,Social Media,Kota
+Balikpapan,18:24,User_2,user2@gmail.com,89578827034,1990,Oppo,Streaming,Kota
+Yogyakarta,2:58,User_3,user3@gmail.com,88744960621,1996,Oppo,Streaming,Kota
+Solo,20:02,User_4,user4@gmail.com,84411528625,1984,Redmi,Gaming,Kota
+Jakarta,7:12,User_5,user5@gmail.com,83602433440,1980,Xiaomi,Shopping,Desa
+Depok,6:17,User_6,user6@gmail.com,88552052794,1985,Oppo,Shopping,Desa
+Yogyakarta,14:08,User_7,user7@gmail.com,87017163228,2006,Redmi,Gaming,Desa
+Balikpapan,4:26,User_8,user8@gmail.com,88683832459,1976,Xiaomi,Social Media,Kota
+Bekasi,18:45,User_9,user9@gmail.com,81795260077,2004,Xiaomi,Gaming,Kota    
+Bekasi,18:06,User_10,user10@gmail.com,87523149644,1971,Oppo,Gaming,Desa                                                    
+Jakarta,10:56,User_11,user11@gmail.com,87508922127,1992,Oppo,Shopping,Kota
+Semarang,8:26,User_12,user12@gmail.com,88353578410,1987,Redmi,Streaming,Desa
+Depok,7:14,User_13,user13@gmail.com,87257658408,2009,Apple,Streaming,Kota
+Denpasar,17:51,User_14,user14@gmail.com,82734862835,1974,Xiaomi,Gaming,Kota
+Denpasar,19:06,User_15,user15@gmail.com,84014055732,1994,Apple,Streaming,Kota
+Surabaya,20:42,User_16,user16@gmail.com,85986717979,2002,Samsung,Gaming,Kota
+Semarang,21:46,User_17,user17@gmail.com,89765121863,1990,Oppo,Gaming,Desa
+Solo,11:57,User_18,user18@gmail.com,83560394581,1973,Samsung,Social Media,Des
+Depok,0:50,User_19,user19@gmail.com,89301264068,1982,Vivo,Shopping,Desa
+Denpasar,4:08,User_20,user20@gmail.com,87488984128,1983,Oppo,Streaming,Kota
+Yogyakarta,3:00,User_21,user21@gmail.com,88783332588,1976,Samsung,Shopping,Kota
+Surabaya,7:29,User_22,user22@gmail.com,81315741158,1970,Redmi,Shopping,Kota
+Bekasi,21:25,User_23,user23@gmail.com,86361191409,2010,Vivo,Streaming,Desa
+Yogyakarta,7:40,User_24,user24@gmail.com,84792638146,2003,Samsung,Streaming,Kota
+Bandung,8:08,User_25,user25@gmail.com,85496365450,1992,Vivo,Shopping,Kota
+Denpasar,18:38,User_26,user26@gmail.com,87486596340,2008,Redmi,Gaming,Kota
+Denpasar,22:23,User_27,user27@gmail.com,87725250518,1976,Oppo,Shopping,Desa
+Depok,22:42,User_28,user28@gmail.com,87278876968,1975,Vivo,Social Media,Kota
+Balikpapan,11:55,User_29,user29@gmail.com,88261265973,1995,Redmi,Streaming,Desa
+Surabaya,13:02,User_30,user30@gmail.com,81089903975,2009,Xiaomi,Gaming,Desa
+Balikpapan,12:21,User_31,user31@gmail.com,84663989759,1991,Xiaomi,Social Media,Kota
+Surabaya,0:25,User_32,user32@gmail.com,84116971859,1972,Samsung,Gaming,Desa
+Semarang,14:55,User_33,user33@gmail.com,81701829265,2006,Vivo,Social Media,Desa
+Surabaya,1:25,User_34,user34@gmail.com,81278629047,2006,Redmi,Streaming,Kota
+Bekasi,23:31,User_35,user35@gmail.com,86844924097,1986,Oppo,Gaming,Kota
+Semarang,19:03,User_36,user36@gmail.com,85741050191,2002,Vivo,Shopping,Desa
+Balikpapan,4:14,User_37,user37@gmail.com,84556263054,2010,Vivo,Gaming,Desa
+Semarang,2:11,User_38,user38@gmail.com,89118926874,1987,Oppo,Shopping,Desa
+Semarang,18:32,User_39,user39@gmail.com,87578901905,2008,Vivo,Social Media,Kota
+Jakarta,7:28,User_40,user40@gmail.com,84695697188,1982,Apple,Streaming,Desa
+Balikpapan,3:43,User_41,user41@gmail.com,86510598748,1980,Samsung,Gaming,Desa
+Balikpapan,0:12,User_42,user42@gmail.com,85248310270,2006,Xiaomi,Streaming,Desa
+Solo,14:04,User_43,user43@gmail.com,81357315928,1990,Oppo,Shopping,Desa
+Yogyakarta,7:47,User_44,user44@gmail.com,87491748452,1998,Redmi,Social Media,Kota
+Surabaya,16:17,User_45,user45@gmail.com,87556223096,1974,Xiaomi,Social Media,Desa
+Semarang,4:41,User_46,user46@gmail.com,86052399511,1970,Vivo,Gaming,Desa
+Balikpapan,21:53,User_47,user47@gmail.com,88069935650,1999,Apple,Gaming,Kota
+Jakarta,20:52,User_48,user48@gmail.com,82180535003,2003,Apple,Gaming,Desa
+Bandung,1:47,User_49,user49@gmail.com,83879259905,1975,Oppo,Shopping,Desa
+Balikpapan,20:05,User_50,user50@gmail.com,85158346654,1998,Redmi,Social Media,Kota
+Denpasar,19:29,User_51,user51@gmail.com,86881480865,2004,Redmi,Social Media,Kota
+Jakarta,17:01,User_52,user52@gmail.com,83238582469,2000,Redmi,Streaming,Kota
+Bandung,9:17,User_53,user53@gmail.com,86468322346,1994,Oppo,Gaming,Kota
+Surabaya,1:16,User_54,user54@gmail.com,89256148084,1972,Samsung,Shopping,Desa
+Bekasi,11:00,User_55,user55@gmail.com,84196543253,1994,Oppo,Gaming,Desa
+Denpasar,19:53,User_56,user56@gmail.com,82953511701,2007,Oppo,Social Media,Kota
+Jakarta,3:40,User_57,user57@gmail.com,87580646205,2002,Apple,Streaming,Kota
+Denpasar,13:51,User_58,user58@gmail.com,81850826557,2000,Redmi,Shopping,Kota
+Semarang,18:35,User_59,user59@gmail.com,89487592701,1993,Vivo,Gaming,Desa
+Bekasi,8:57,User_60,user60@gmail.com,88261500083,2010,Apple,Shopping,Desa
+Yogyakarta,7:09,User_61,user61@gmail.com,89923235022,1983,Redmi,Shopping,Desa
+Balikpapan,21:31,User_62,user62@gmail.com,87815435440,2008,Xiaomi,Social Media,Kota
+Semarang,22:59,User_63,user63@gmail.com,81279022891,1976,Oppo,Gaming,Desa
+Balikpapan,2:30,User_64,user64@gmail.com,83685543947,2003,Redmi,Shopping,Kota
+Bekasi,13:20,User_65,user65@gmail.com,81260733661,1977,Apple,Gaming,Kota
+Semarang,9:14,User_66,user66@gmail.com,86305330978,1971,Redmi,Shopping,Kota
+Yogyakarta,0:16,User_67,user67@gmail.com,88361509190,1980,Apple,Shopping,Kota
+Balikpapan,1:05,User_68,user68@gmail.com,82447394159,2009,Oppo,Social Media,Desa
+Jakarta,1:01,User_69,user69@gmail.com,89977168587,1991,Redmi,Streaming,Desa
+Yogyakarta,14:15,User_70,user70@gmail.com,87724559392,1975,Redmi,Streaming,Desa
+Balikpapan,23:21,User_71,user71@gmail.com,88164196993,1976,Xiaomi,Social Media,Kota
+Solo,7:03,User_72,user72@gmail.com,87956061853,1981,Samsung,Social Media,Kota
+Balikpapan,9:52,User_73,user73@gmail.com,88639047133,1979,Apple,Gaming,Kota
+Solo,10:33,User_74,user74@gmail.com,87834675688,1973,Oppo,Shopping,Desa
+Depok,15:44,User_75,user75@gmail.com,89260457614,1990,Samsung,Shopping,Kota
+Balikpapan,0:25,User_76,user76@gmail.com,87602336187,1980,Oppo,Shopping,Kota
+Semarang,1:36,User_77,user77@gmail.com,84282604070,2000,Apple,Shopping,Desa
+Surabaya,18:43,User_78,user78@gmail.com,82905040387,1978,Apple,Gaming,Desa
+Surabaya,17:38,User_79,user79@gmail.com,89260609069,1978,Oppo,Shopping,Kota
+Solo,21:45,User_80,user80@gmail.com,85793364809,1989,Xiaomi,Gaming,Desa
+Depok,23:59,User_81,user81@gmail.com,86927180579,1992,Vivo,Gaming,Kota
+Depok,15:19,User_82,user82@gmail.com,88766437187,2001,Xiaomi,Streaming,Kota
+Semarang,23:19,User_83,user83@gmail.com,82547304017,2001,Oppo,Streaming,Kota
+Surabaya,5:40,User_84,user84@gmail.com,82069408831,2000,Vivo,Shopping,Desa
+Balikpapan,21:55,User_85,user85@gmail.com,85645134845,1970,Vivo,Shopping,Kota
+Yogyakarta,0:21,User_86,user86@gmail.com,81039527737,2009,Samsung,Gaming,Kota
+Bandung,6:04,User_87,user87@gmail.com,83188876208,2002,Redmi,Gaming,Desa
+Jakarta,11:18,User_88,user88@gmail.com,82661662251,2005,Apple,Streaming,Desa
+Bandung,3:14,User_89,user89@gmail.com,89689102143,1989,Xiaomi,Social Media,Kota
+Balikpapan,0:22,User_90,user90@gmail.com,82878840014,2005,Xiaomi,Streaming,Kota
+Denpasar,13:20,User_91,user91@gmail.com,88437735487,1997,Xiaomi,Social Media,Desa
+Denpasar,4:26,User_92,user92@gmail.com,88191325066,1986,Oppo,Shopping,Kota
+Denpasar,12:47,User_93,user93@gmail.com,86471406637,2006,Redmi,Gaming,Kota
+Yogyakarta,7:10,User_94,user94@gmail.com,87456037869,2010,Samsung,Gaming,Desa
+Jakarta,15:14,User_95,user95@gmail.com,82646880136,1995,Apple,Social Media,Kota
+Surabaya,19:47,User_96,user96@gmail.com,81830510874,2009,Redmi,Social Media,Desa
+Bandung,21:19,User_97,user97@gmail.com,89697869819,1985,Vivo,Streaming,Kota
+Yogyakarta,13:59,User_98,user98@gmail.com,84738330054,1983,Xiaomi,Shopping,Desa
+Bandung,17:15,User_99,user99@gmail.com,84311404318,2007,Oppo,Streaming,Kota
+Balikpapan,19:47,User_100,user100@gmail.com,87975763788,1978,Xiaomi,Social Media,Kota
+Surabaya,13:27,User_101,user101@gmail.com,86896253112,2000,Vivo,Shopping,Desa
+Balikpapan,16:00,User_102,user102@gmail.com,84739706854,1970,Xiaomi,Gaming,Kota
+Surabaya,11:19,User_103,user103@gmail.com,85550854516,2003,Redmi,Social Media,Kota
+Bandung,22:06,User_104,user104@gmail.com,89961837883,1995,Xiaomi,Streaming,Desa
+Solo,3:56,User_105,user105@gmail.com,85741495320,2006,Redmi,Gaming,Desa
+Yogyakarta,1:39,User_106,user106@gmail.com,81771550028,1979,Apple,Streaming,Kota
+Yogyakarta,0:20,User_107,user107@gmail.com,87211840559,1981,Redmi,Streaming,Desa
+Denpasar,11:40,User_108,user108@gmail.com,87850607976,1998,Xiaomi,Social Media,Desa
+Semarang,2:07,User_109,user109@gmail.com,83627646817,1975,Apple,Streaming,Kota
+Surabaya,0:38,User_110,user110@gmail.com,87380049505,1999,Samsung,Streaming,Kota
+Yogyakarta,7:48,User_111,user111@gmail.com,89367410686,1996,Apple,Gaming,Desa
+Depok,12:43,User_112,user112@gmail.com,87964108882,2010,Redmi,Streaming,Desa
+Balikpapan,0:40,User_113,user113@gmail.com,89416698352,1984,Apple,Social Media,Kota
+Semarang,4:08,User_114,user114@gmail.com,84471620749,1988,Redmi,Shopping,Desa
+Solo,14:03,User_115,user115@gmail.com,87911387649,1982,Oppo,Social Media,Kota
+Solo,13:43,User_116,user116@gmail.com,87565849335,1987,Vivo,Shopping,Kota
+Surabaya,9:04,User_117,user117@gmail.com,88701275840,1992,Apple,Shopping,Kota
+Solo,4:02,User_118,user118@gmail.com,85385628818,1978,Redmi,Gaming,Desa
+Denpasar,1:40,User_119,user119@gmail.com,82874392917,1983,Apple,Shopping,Kota
+Bekasi,11:30,User_120,user120@gmail.com,81782492177,2008,Redmi,Social Media,Desa
+Semarang,14:33,User_121,user121@gmail.com,86000750665,2006,Oppo,Gaming,Kota
+Yogyakarta,4:18,User_122,user122@gmail.com,85468008329,1997,Vivo,Gaming,Kota
+Solo,9:19,User_123,user123@gmail.com,84186524124,1989,Samsung,Streaming,Kota
+Yogyakarta,5:37,User_124,user124@gmail.com,84138300210,2002,Samsung,Streaming,Kota
+Balikpapan,10:53,User_125,user125@gmail.com,88993907392,2005,Redmi,Social Media,Desa
+Bekasi,15:01,User_126,user126@gmail.com,89031976035,1990,Vivo,Social Media,Desa
+Solo,15:29,User_127,user127@gmail.com,81349539724,1995,Redmi,Social Media,Desa
+Bekasi,16:21,User_128,user128@gmail.com,81840585169,1971,Xiaomi,Social Media,Kota
+Surabaya,4:39,User_129,user129@gmail.com,87865304528,2007,Xiaomi,Social Media,Kota
+Depok,23:39,User_130,user130@gmail.com,82849162730,2008,Redmi,Shopping,Kota
+Balikpapan,22:41,User_131,user131@gmail.com,82668576239,1973,Samsung,Streaming,Kota
+Bekasi,7:16,User_132,user132@gmail.com,87402153722,1981,Xiaomi,Shopping,Desa
+Bekasi,18:43,User_133,user133@gmail.com,82558253110,1981,Oppo,Shopping,Desa
+Bandung,18:23,User_134,user134@gmail.com,89123148076,1991,Xiaomi,Streaming,Desa
+Bandung,13:54,User_135,user135@gmail.com,85587741637,1970,Vivo,Gaming,Desa
+Semarang,21:50,User_136,user136@gmail.com,84071773267,1984,Xiaomi,Social Media,Kota
+Denpasar,13:25,User_137,user137@gmail.com,86632120965,1983,Xiaomi,Streaming,Desa
+Bandung,10:09,User_138,user138@gmail.com,84958122028,1976,Redmi,Social Media,Desa
+Balikpapan,7:55,User_139,user139@gmail.com,84305646906,2007,Samsung,Shopping,Desa
+Jakarta,16:00,User_140,user140@gmail.com,89523942127,2006,Samsung,Streaming,Kota
+Bekasi,0:26,User_141,user141@gmail.com,84165004565,1988,Xiaomi,Social Media,Kota
+Bekasi,9:49,User_142,user142@gmail.com,85716548129,1993,Apple,Social Media,Desa
+Balikpapan,14:13,User_143,user143@gmail.com,86008620986,1996,Vivo,Social Media,Desa
+Semarang,16:36,User_144,user144@gmail.com,84882909343,1983,Samsung,Streaming,Kota
+Balikpapan,10:00,User_145,user145@gmail.com,85137358730,2005,Redmi,Shopping,Desa
+Semarang,12:34,User_146,user146@gmail.com,89059601611,1991,Samsung,Gaming,Kota
+Solo,16:12,User_147,user147@gmail.com,84613194736,1974,Oppo,Gaming,Kota
+Denpasar,0:54,User_148,user148@gmail.com,82257652100,2009,Xiaomi,Streaming,Desa
+Yogyakarta,11:44,User_149,user149@gmail.com,84842410381,1978,Apple,Streaming,Desa
+Surabaya,13:03,User_150,user150@gmail.com,84045504115,2010,Oppo,Shopping,Kota
+Balikpapan,0:51,User_151,user151@gmail.com,82020790488,1973,Vivo,Shopping,Desa
+Bekasi,22:03,User_152,user152@gmail.com,86263477803,1974,Xiaomi,Streaming,Desa
+Yogyakarta,13:44,User_153,user153@gmail.com,87405702669,1980,Redmi,Gaming,Kota
+Depok,8:21,User_154,user154@gmail.com,83905666715,2009,Redmi,Streaming,Kota
+Semarang,1:34,User_155,user155@gmail.com,86395405231,1976,Redmi,Shopping,Desa
+Yogyakarta,1:37,User_156,user156@gmail.com,88817437915,2007,Oppo,Social Media,Desa
+Denpasar,10:45,User_157,user157@gmail.com,89926095879,2005,Oppo,Shopping,Desa
+Denpasar,3:55,User_158,user158@gmail.com,82053615543,1977,Apple,Shopping,Kota
+Solo,1:33,User_159,user159@gmail.com,81096286818,2003,Redmi,Streaming,Desa
+Jakarta,12:35,User_160,user160@gmail.com,83329328423,1983,Apple,Streaming,Kota
+Semarang,7:27,User_161,user161@gmail.com,81996015608,1970,Redmi,Shopping,Desa
+Yogyakarta,8:47,User_162,user162@gmail.com,81366948327,1981,Xiaomi,Streaming,Kota
+Surabaya,12:21,User_163,user163@gmail.com,88990335128,1985,Vivo,Streaming,Kota
+Denpasar,23:31,User_164,user164@gmail.com,86337561704,1982,Xiaomi,Shopping,Desa
+Bandung,2:15,User_165,user165@gmail.com,83812727139,1994,Oppo,Shopping,Kota
+Semarang,6:10,User_166,user166@gmail.com,89573399182,2007,Xiaomi,Gaming,Kota
+Jakarta,19:06,User_167,user167@gmail.com,88406581276,1991,Samsung,Gaming,Kota
+Balikpapan,16:42,User_168,user168@gmail.com,84432931481,2000,Xiaomi,Shopping,Kota
+Yogyakarta,0:30,User_169,user169@gmail.com,82670522909,2001,Samsung,Gaming,Kota
+Solo,7:24,User_170,user170@gmail.com,89416613274,1975,Redmi,Streaming,Kota
+Bekasi,19:11,User_171,user171@gmail.com,86535300029,1971,Samsung,Social Media,Kota
+Balikpapan,12:23,User_172,user172@gmail.com,88826496620,1988,Redmi,Streaming,Kota
+Bandung,16:05,User_173,user173@gmail.com,87405419310,1979,Oppo,Gaming,Kota
+Depok,13:09,User_174,user174@gmail.com,87614846542,2005,Xiaomi,Streaming,Kota
+Semarang,9:18,User_175,user175@gmail.com,81803546906,2007,Redmi,Shopping,Kota
+Depok,10:24,User_176,user176@gmail.com,83684331543,1976,Oppo,Social Media,Kota
+Jakarta,7:36,User_177,user177@gmail.com,89140399044,2010,Xiaomi,Gaming,Kota
+Balikpapan,18:24,User_178,user178@gmail.com,83483577795,1995,Vivo,Shopping,Desa
+Yogyakarta,17:17,User_179,user179@gmail.com,87008449508,2000,Oppo,Gaming,Kota
+Yogyakarta,5:52,User_180,user180@gmail.com,87063209054,2005,Redmi,Streaming,Kota
+Bandung,10:41,User_181,user181@gmail.com,88368274892,1998,Xiaomi,Streaming,Kota
+Bandung,2:01,User_182,user182@gmail.com,88217327893,1974,Apple,Shopping,Desa
+Depok,4:43,User_183,user183@gmail.com,89859075012,1984,Oppo,Social Media,Desa
+Yogyakarta,22:09,User_184,user184@gmail.com,88972909402,2001,Redmi,Social Media,Desa
+Jakarta,13:20,User_185,user185@gmail.com,86358582724,2007,Samsung,Social Media,Desa
+Surabaya,16:34,User_186,user186@gmail.com,83194230280,1986,Xiaomi,Shopping,Desa
+Semarang,3:59,User_187,user187@gmail.com,86610226041,2009,Apple,Shopping,Desa
+Bandung,13:18,User_188,user188@gmail.com,83481225941,1993,Samsung,Shopping,Desa
+Yogyakarta,0:47,User_189,user189@gmail.com,84096739858,2000,Redmi,Shopping,Desa
+Bandung,13:39,User_190,user190@gmail.com,83631221670,1988,Vivo,Social Media,Desa
+Surabaya,20:09,User_191,user191@gmail.com,82537590690,1980,Redmi,Gaming,Desa
+Depok,15:05,User_192,user192@gmail.com,87537877519,2005,Redmi,Social Media,Desa
+Yogyakarta,13:37,User_193,user193@gmail.com,89248036410,1986,Samsung,Streaming,Desa
+Solo,19:20,User_194,user194@gmail.com,86105918316,1980,Xiaomi,Gaming,Desa
+Bekasi,19:54,User_195,user195@gmail.com,84703059174,1974,Apple,Streaming,Desa
+Solo,18:15,User_196,user196@gmail.com,86828302172,1974,Xiaomi,Streaming,Kota
+Balikpapan,23:11,User_197,user197@gmail.com,89220908756,1989,Samsung,Social Media,Kota
+Bandung,7:53,User_198,user198@gmail.com,86842902255,1979,Apple,Streaming,Desa
+Depok,5:50,User_199,user199@gmail.com,81874618530,2010,Samsung,Shopping,Kota
+Surabaya,17:21,User_200,user200@gmail.com,84742516808,1977,Samsung,Gaming,Kota
+Depok,5:50,User_201,user201@gmail.com,85168204110,2001,Xiaomi,Streaming,Desa
+Depok,1:12,User_202,user202@gmail.com,88674917773,2005,Vivo,Shopping,Kota
+Solo,15:53,User_203,user203@gmail.com,85853347412,1996,Apple,Social Media,Desa
+Surabaya,9:22,User_204,user204@gmail.com,81714882247,2007,Xiaomi,Gaming,Kota
+Bekasi,17:12,User_205,user205@gmail.com,81856706122,1971,Xiaomi,Social Media,Desa
+Depok,19:23,User_206,user206@gmail.com,83481619750,1975,Vivo,Social Media,Desa
+Depok,21:30,User_207,user207@gmail.com,84408708710,1997,Xiaomi,Streaming,Desa
+Depok,23:50,User_208,user208@gmail.com,89527887778,1973,Oppo,Shopping,Kota
+Semarang,10:55,User_209,user209@gmail.com,83056716648,1983,Apple,Social Media,Desa
+Bandung,0:21,User_210,user210@gmail.com,88199578623,1986,Samsung,Gaming,Desa
+Jakarta,0:39,User_211,user211@gmail.com,81732167953,1996,Xiaomi,Gaming,Kota
+Balikpapan,4:56,User_212,user212@gmail.com,82389592742,2006,Vivo,Shopping,Kota
+Jakarta,19:33,User_213,user213@gmail.com,82971411193,1982,Oppo,Social Media,Desa
+Yogyakarta,13:20,User_214,user214@gmail.com,82032040842,1986,Apple,Streaming,Kota
+Jakarta,6:13,User_215,user215@gmail.com,83300376032,2010,Samsung,Social Media,Kota
+Balikpapan,11:10,User_216,user216@gmail.com,82768880263,2004,Oppo,Streaming,Kota
+Balikpapan,1:41,User_217,user217@gmail.com,87451723140,2001,Redmi,Shopping,Desa
+Bandung,4:05,User_218,user218@gmail.com,88072221610,2004,Samsung,Social Media,Desa
+Depok,6:19,User_219,user219@gmail.com,81489060078,1990,Xiaomi,Shopping,Kota
+Jakarta,5:50,User_220,user220@gmail.com,84644529444,1972,Apple,Social Media,Desa
+Yogyakarta,5:28,User_221,user221@gmail.com,85435575445,1996,Oppo,Gaming,Desa
+Solo,1:16,User_222,user222@gmail.com,85904695002,2002,Oppo,Gaming,Kota
+Surabaya,17:46,User_223,user223@gmail.com,85766503819,2007,Vivo,Shopping,Desa
+Bekasi,4:59,User_224,user224@gmail.com,83698244857,1991,Apple,Gaming,Desa
+Jakarta,15:26,User_225,user225@gmail.com,89904486985,1999,Vivo,Gaming,Kota
+Solo,22:12,User_226,user226@gmail.com,88404371378,1994,Xiaomi,Gaming,Desa
+Surabaya,20:26,User_227,user227@gmail.com,87830547803,2000,Apple,Shopping,Desa
+Surabaya,20:37,User_228,user228@gmail.com,85911609788,1981,Redmi,Shopping,Desa
+Semarang,10:53,User_229,user229@gmail.com,89563684654,2004,Xiaomi,Social Media,Desa
+Jakarta,16:57,User_230,user230@gmail.com,87804098392,1997,Xiaomi,Streaming,Desa
+Solo,22:35,User_231,user231@gmail.com,81587341553,2001,Oppo,Gaming,Desa
+Bekasi,6:49,User_232,user232@gmail.com,82759331687,1984,Vivo,Shopping,Desa
+Bekasi,18:01,User_233,user233@gmail.com,88877293568,2009,Oppo,Streaming,Kota
+Balikpapan,2:14,User_234,user234@gmail.com,89292331358,2005,Redmi,Shopping,Desa
+Balikpapan,17:33,User_235,user235@gmail.com,89804525346,1996,Vivo,Gaming,Kota
+Denpasar,19:11,User_236,user236@gmail.com,86678269397,1987,Oppo,Streaming,Kota
+Depok,5:08,User_237,user237@gmail.com,86771998183,2009,Samsung,Streaming,Desa
+Denpasar,2:42,User_238,user238@gmail.com,85652509473,1974,Samsung,Gaming,Desa
+Surabaya,11:04,User_239,user239@gmail.com,85853495148,2007,Oppo,Gaming,Desa
+Solo,9:05,User_240,user240@gmail.com,83630923335,1991,Apple,Gaming,Kota
+Semarang,6:38,User_241,user241@gmail.com,89178888819,1983,Samsung,Social Media,Desa
+Semarang,20:44,User_242,user242@gmail.com,86503045662,1972,Apple,Social Media,Kota
+Solo,12:34,User_243,user243@gmail.com,87772075768,1996,Oppo,Streaming,Kota
+Solo,16:39,User_244,user244@gmail.com,86393580545,2001,Redmi,Shopping,Kota
+Jakarta,21:50,User_245,user245@gmail.com,89147983145,2006,Xiaomi,Social Media,Kota
+Jakarta,21:54,User_246,user246@gmail.com,86787531066,1985,Redmi,Social Media,Kota
+Yogyakarta,8:46,User_247,user247@gmail.com,86978735466,1999,Redmi,Gaming,Desa
+Yogyakarta,14:16,User_248,user248@gmail.com,81870211121,1980,Samsung,Gaming,Kota
+Balikpapan,10:55,User_249,user249@gmail.com,87827050424,2002,Apple,Shopping,Desa
+Depok,7:05,User_250,user250@gmail.com,86823608115,2009,Apple,Gaming,Desa
+Semarang,20:06,User_251,user251@gmail.com,89429892497,2003,Xiaomi,Shopping,Desa
+Denpasar,23:05,User_252,user252@gmail.com,84025747746,1997,Vivo,Streaming,Kota
+Yogyakarta,21:13,User_253,user253@gmail.com,81828580574,1984,Samsung,Gaming,Desa
+Semarang,9:08,User_254,user254@gmail.com,88458173347,1980,Apple,Gaming,Kota
+Denpasar,5:58,User_255,user255@gmail.com,82845570341,2009,Redmi,Shopping,Kota
+Semarang,15:54,User_256,user256@gmail.com,86273817559,1979,Oppo,Shopping,Kota
+Depok,13:06,User_257,user257@gmail.com,88292191767,1981,Redmi,Gaming,Desa
+Balikpapan,3:47,User_258,user258@gmail.com,84394272210,1979,Vivo,Streaming,Kota
+Yogyakarta,13:51,User_259,user259@gmail.com,83831680054,1976,Oppo,Social Media,Kota
+Jakarta,16:05,User_260,user260@gmail.com,86416272919,1975,Samsung,Streaming,Desa
+Balikpapan,22:09,User_261,user261@gmail.com,85262751009,1979,Samsung,Shopping,Desa
+Depok,5:46,User_262,user262@gmail.com,86017948026,1978,Samsung,Shopping,Kota
+Jakarta,5:47,User_263,user263@gmail.com,89038642438,1986,Oppo,Shopping,Desa
+Surabaya,4:25,User_264,user264@gmail.com,88870366515,1985,Vivo,Shopping,Kota
+Denpasar,18:09,User_265,user265@gmail.com,82470802081,1982,Oppo,Social Media,Kota
+Jakarta,10:07,User_266,user266@gmail.com,83783893150,2002,Vivo,Social Media,Kota
+Solo,2:23,User_267,user267@gmail.com,87196466802,2004,Oppo,Shopping,Desa
+Depok,12:36,User_268,user268@gmail.com,83580639942,1995,Samsung,Streaming,Kota
+Semarang,21:48,User_269,user269@gmail.com,88031350987,1994,Redmi,Social Media,Kota
+Jakarta,4:45,User_270,user270@gmail.com,88457253068,2002,Apple,Social Media,Kota
+Denpasar,13:06,User_271,user271@gmail.com,88187634383,2007,Xiaomi,Social Media,Desa
+Depok,22:22,User_272,user272@gmail.com,85311475101,2005,Samsung,Social Media,Desa
+Yogyakarta,7:18,User_273,user273@gmail.com,84424395861,1984,Xiaomi,Social Media,Desa
+Yogyakarta,7:31,User_274,user274@gmail.com,87224148998,1989,Xiaomi,Streaming,Desa
+Solo,6:00,User_275,user275@gmail.com,85080190053,1975,Redmi,Social Media,Desa
+Bekasi,3:40,User_276,user276@gmail.com,88693969359,1983,Oppo,Shopping,Desa
+Solo,21:26,User_277,user277@gmail.com,85886382475,1996,Oppo,Shopping,Kota
+Yogyakarta,8:26,User_278,user278@gmail.com,82454857862,1990,Oppo,Social Media,Desa
+Depok,19:42,User_279,user279@gmail.com,86822451626,1998,Samsung,Social Media,Desa
+Solo,19:18,User_280,user280@gmail.com,86340352580,2000,Vivo,Social Media,Kota
+Depok,13:55,User_281,user281@gmail.com,86972326396,1990,Vivo,Streaming,Desa
+Balikpapan,14:50,User_282,user282@gmail.com,88362894977,2010,Apple,Gaming,Desa
+Bekasi,7:22,User_283,user283@gmail.com,88555852034,1986,Apple,Shopping,Kota
+Semarang,4:28,User_284,user284@gmail.com,85429920524,1994,Apple,Streaming,Kota
+Bandung,21:30,User_285,user285@gmail.com,88529313682,1987,Vivo,Gaming,Kota
+Jakarta,7:16,User_286,user286@gmail.com,87344816378,1992,Oppo,Shopping,Kota
+Bekasi,21:15,User_287,user287@gmail.com,83785645541,1974,Oppo,Streaming,Kota
+Jakarta,3:57,User_288,user288@gmail.com,86257263393,1999,Samsung,Shopping,Desa
+Denpasar,9:47,User_289,user289@gmail.com,82615323406,2001,Samsung,Shopping,Desa
+Balikpapan,0:06,User_290,user290@gmail.com,87678713388,1983,Redmi,Gaming,Desa
+Jakarta,1:05,User_291,user291@gmail.com,82176899008,1979,Vivo,Social Media,Desa
+Denpasar,16:28,User_292,user292@gmail.com,87803228337,1984,Xiaomi,Gaming,Kota
+Depok,22:39,User_293,user293@gmail.com,82292258631,1970,Xiaomi,Shopping,Kota
+Yogyakarta,5:56,User_294,user294@gmail.com,83478525583,1980,Apple,Gaming,Kota
+Surabaya,23:53,User_295,user295@gmail.com,81401449036,2004,Apple,Streaming,Desa
+Denpasar,11:36,User_296,user296@gmail.com,84579205372,1999,Vivo,Social Media,Kota
+Surabaya,3:24,User_297,user297@gmail.com,89212207122,1981,Xiaomi,Social Media,Desa
+Jakarta,7:25,User_298,user298@gmail.com,88260806312,2001,Xiaomi,Gaming,Kota
+Balikpapan,4:59,User_299,user299@gmail.com,89090306848,1970,Samsung,Shopping,Kota
+Bekasi,11:18,User_300,user300@gmail.com,82609600177,1999,Vivo,Social Media,Desa
+Bekasi,2:40,User_301,user301@gmail.com,88049788149,2004,Redmi,Streaming,Kota
+Bekasi,10:32,User_302,user302@gmail.com,85276277154,1982,Apple,Shopping,Kota
+Yogyakarta,20:05,User_303,user303@gmail.com,85944326372,1975,Xiaomi,Gaming,Desa
+Bandung,15:28,User_304,user304@gmail.com,81894534679,2001,Xiaomi,Gaming,Desa
+Balikpapan,11:57,User_305,user305@gmail.com,84497473419,1982,Xiaomi,Shopping,Desa
+Yogyakarta,19:19,User_306,user306@gmail.com,89320238450,1990,Samsung,Streaming,Kota
+Semarang,22:40,User_307,user307@gmail.com,81114048306,1994,Samsung,Social Media,Kota
+Denpasar,5:12,User_308,user308@gmail.com,83302621358,2001,Samsung,Streaming,Desa
+Jakarta,10:08,User_309,user309@gmail.com,81639675239,1974,Xiaomi,Shopping,Desa
+Depok,10:20,User_310,user310@gmail.com,87342119792,1978,Xiaomi,Social Media,Kota
+Bandung,14:12,User_311,user311@gmail.com,84595976020,2006,Xiaomi,Social Media,Desa
+Solo,15:16,User_312,user312@gmail.com,81969344629,1987,Samsung,Gaming,Desa
+Balikpapan,13:44,User_313,user313@gmail.com,83640053120,2009,Samsung,Shopping,Kota
+Bekasi,6:01,User_314,user314@gmail.com,82554227121,1982,Xiaomi,Social Media,Desa
+Jakarta,7:09,User_315,user315@gmail.com,85077545401,1991,Xiaomi,Streaming,Kota
+Surabaya,0:59,User_316,user316@gmail.com,89997292035,1990,Oppo,Social Media,Kota
+Bandung,10:20,User_317,user317@gmail.com,88347723841,2008,Xiaomi,Shopping,Desa
+Denpasar,22:14,User_318,user318@gmail.com,89542639916,1990,Redmi,Shopping,Kota
+Jakarta,7:46,User_319,user319@gmail.com,81964861193,1999,Redmi,Shopping,Kota
+Balikpapan,23:21,User_320,user320@gmail.com,86944340556,1982,Apple,Shopping,Desa
+Yogyakarta,18:57,User_321,user321@gmail.com,81979766883,1999,Vivo,Streaming,Kota
+Jakarta,12:13,User_322,user322@gmail.com,84960577089,2003,Samsung,Streaming,Desa
+Bandung,21:44,User_323,user323@gmail.com,86271595098,2001,Apple,Shopping,Desa
+Bandung,12:58,User_324,user324@gmail.com,87844175773,1979,Vivo,Streaming,Desa
+Denpasar,6:12,User_325,user325@gmail.com,88992816706,1991,Vivo,Streaming,Kota
+Denpasar,11:08,User_326,user326@gmail.com,81844919155,1979,Samsung,Social Media,Kota
+Balikpapan,4:02,User_327,user327@gmail.com,86248001465,1970,Oppo,Shopping,Kota
+Bekasi,3:28,User_328,user328@gmail.com,84758759846,1972,Redmi,Streaming,Kota
+Surabaya,16:14,User_329,user329@gmail.com,83337592582,1989,Oppo,Shopping,Kota
+Yogyakarta,4:06,User_330,user330@gmail.com,87603293883,2010,Apple,Social Media,Kota
+Bandung,1:31,User_331,user331@gmail.com,82056361945,1984,Vivo,Social Media,Kota
+Bandung,16:11,User_332,user332@gmail.com,83216262994,1996,Samsung,Streaming,Desa
+Jakarta,7:42,User_333,user333@gmail.com,81669319867,1990,Apple,Shopping,Desa
+Denpasar,6:55,User_334,user334@gmail.com,86274354595,1997,Oppo,Shopping,Desa
+Jakarta,2:35,User_335,user335@gmail.com,85337304687,1974,Vivo,Streaming,Desa
+Solo,7:35,User_336,user336@gmail.com,87848406359,2006,Apple,Social Media,Kota
+Jakarta,18:50,User_337,user337@gmail.com,85831461601,1990,Apple,Shopping,Kota
+Bandung,4:11,User_338,user338@gmail.com,84145310160,1976,Xiaomi,Social Media,Desa
+Jakarta,20:24,User_339,user339@gmail.com,83019417598,1997,Samsung,Social Media,Desa
+Bekasi,15:29,User_340,user340@gmail.com,81809036964,1977,Xiaomi,Shopping,Desa
+Semarang,10:41,User_341,user341@gmail.com,82872137223,2007,Xiaomi,Social Media,Kota
+Bekasi,2:23,User_342,user342@gmail.com,89731010690,2008,Samsung,Shopping,Kota
+Balikpapan,3:58,User_343,user343@gmail.com,88315519078,1971,Oppo,Gaming,Desa
+Yogyakarta,16:08,User_344,user344@gmail.com,89902177738,2001,Vivo,Gaming,Desa
+Denpasar,22:15,User_345,user345@gmail.com,81948759915,2009,Samsung,Social Media,Kota
+Depok,4:26,User_346,user346@gmail.com,81947471022,1994,Oppo,Gaming,Desa
+Bandung,15:23,User_347,user347@gmail.com,87744657233,1991,Oppo,Social Media,Kota
+Bekasi,17:49,User_348,user348@gmail.com,88297199979,1994,Redmi,Shopping,Kota
+Bekasi,1:36,User_349,user349@gmail.com,85003571873,2006,Vivo,Streaming,Kota
+Semarang,22:40,User_350,user350@gmail.com,83540711855,1977,Redmi,Shopping,Kota
+Jakarta,10:51,User_351,user351@gmail.com,81318423188,2009,Redmi,Social Media,Kota
+Semarang,5:52,User_352,user352@gmail.com,89351458562,1979,Apple,Streaming,Desa
+Semarang,22:02,User_353,user353@gmail.com,88957703766,2002,Oppo,Gaming,Desa
+Semarang,4:47,User_354,user354@gmail.com,88861842480,1976,Oppo,Shopping,Kota
+Semarang,5:01,User_355,user355@gmail.com,81491339202,1992,Apple,Shopping,Desa
+Depok,14:10,User_356,user356@gmail.com,86117307048,2005,Oppo,Gaming,Kota
+Semarang,22:45,User_357,user357@gmail.com,87106045915,1993,Xiaomi,Streaming,Desa
+Denpasar,18:03,User_358,user358@gmail.com,84384290071,1981,Apple,Shopping,Kota
+Yogyakarta,3:23,User_359,user359@gmail.com,88084060395,1990,Vivo,Gaming,Desa
+Jakarta,23:32,User_360,user360@gmail.com,81457908769,1979,Oppo,Gaming,Kota
+Bandung,23:21,User_361,user361@gmail.com,89846880462,1999,Oppo,Social Media,Kota
+Surabaya,4:57,User_362,user362@gmail.com,89085934271,1998,Xiaomi,Streaming,Kota
+Bandung,1:06,User_363,user363@gmail.com,85407253105,1987,Samsung,Gaming,Desa
+Balikpapan,16:32,User_364,user364@gmail.com,86247972562,2010,Apple,Social Media,Desa
+Surabaya,22:45,User_365,user365@gmail.com,81147271795,1991,Samsung,Gaming,Desa
+Balikpapan,6:03,User_366,user366@gmail.com,84678192628,1998,Apple,Gaming,Kota
+Depok,9:15,User_367,user367@gmail.com,82580152026,2001,Vivo,Streaming,Desa
+Depok,16:30,User_368,user368@gmail.com,89468810589,1986,Oppo,Gaming,Kota
+Yogyakarta,0:07,User_369,user369@gmail.com,87107603532,1977,Oppo,Streaming,Desa
+Yogyakarta,2:14,User_370,user370@gmail.com,82033966730,2009,Redmi,Shopping,Desa
+Jakarta,6:00,User_371,user371@gmail.com,83060031296,1990,Xiaomi,Streaming,Desa
+Surabaya,11:01,User_372,user372@gmail.com,85190969607,1972,Xiaomi,Gaming,Kota
+Denpasar,18:23,User_373,user373@gmail.com,82657345694,1988,Samsung,Social Media,Desa
+Yogyakarta,20:30,User_374,user374@gmail.com,84357031372,1974,Xiaomi,Shopping,Kota
+Jakarta,9:16,User_375,user375@gmail.com,87190980720,1988,Xiaomi,Social Media,Kota
+Surabaya,7:05,User_376,user376@gmail.com,82318534059,1975,Apple,Social Media,Desa
+Depok,23:24,User_377,user377@gmail.com,89263863845,1973,Oppo,Gaming,Desa
+Balikpapan,3:20,User_378,user378@gmail.com,83718653187,1989,Oppo,Gaming,Desa
+Jakarta,2:45,User_379,user379@gmail.com,88958431311,1998,Oppo,Gaming,Kota
+Surabaya,4:32,User_380,user380@gmail.com,87677259497,2006,Oppo,Streaming,Kota
+Balikpapan,17:10,User_381,user381@gmail.com,86322685970,1990,Xiaomi,Gaming,Desa
+Bekasi,8:37,User_382,user382@gmail.com,89474034943,1975,Vivo,Shopping,Desa
+Yogyakarta,22:42,User_383,user383@gmail.com,88575946029,1989,Oppo,Shopping,Kota
+Surabaya,15:30,User_384,user384@gmail.com,82990333716,2002,Vivo,Shopping,Kota
+Surabaya,14:10,User_385,user385@gmail.com,82825747371,1982,Oppo,Gaming,Desa
+Balikpapan,13:44,User_386,user386@gmail.com,82590200121,1979,Vivo,Shopping,Desa
+Yogyakarta,7:42,User_387,user387@gmail.com,89185120922,1996,Redmi,Streaming,Kota
+Denpasar,20:33,User_388,user388@gmail.com,89052606127,1985,Apple,Streaming,Desa
+Yogyakarta,9:26,User_389,user389@gmail.com,86482702768,1982,Redmi,Streaming,Kota
+Denpasar,15:12,User_390,user390@gmail.com,83790192798,1986,Redmi,Social Media,Kota
+Yogyakarta,13:02,User_391,user391@gmail.com,87070597448,1988,Vivo,Shopping,Kota
+Yogyakarta,19:22,User_392,user392@gmail.com,87690492132,1983,Apple,Social Media,Kota
+Bandung,18:17,User_393,user393@gmail.com,89514614021,1970,Redmi,Shopping,Desa
+Jakarta,17:06,User_394,user394@gmail.com,88379364356,2007,Apple,Streaming,Kota
+Surabaya,13:22,User_395,user395@gmail.com,86214867093,1970,Vivo,Gaming,Kota
+Bandung,15:45,User_396,user396@gmail.com,82218116652,2003,Xiaomi,Social Media,Kota
+Bandung,19:12,User_397,user397@gmail.com,89495178005,1987,Xiaomi,Gaming,Desa
+Balikpapan,13:46,User_398,user398@gmail.com,86085980006,1973,Samsung,Shopping,Desa
+Bekasi,3:44,User_399,user399@gmail.com,88745220245,2009,Apple,Social Media,Kota
+Depok,19:20,User_400,user400@gmail.com,84980977017,1983,Xiaomi,Streaming,Kota
+Bekasi,0:46,User_401,user401@gmail.com,86472609581,1989,Redmi,Social Media,Kota
+Jakarta,15:01,User_402,user402@gmail.com,82082478514,2001,Xiaomi,Streaming,Kota
+Surabaya,9:32,User_403,user403@gmail.com,89251615303,2003,Apple,Shopping,Kota
+Bandung,19:23,User_404,user404@gmail.com,83192351035,2000,Redmi,Streaming,Desa
+Semarang,2:39,User_405,user405@gmail.com,87314956656,1972,Xiaomi,Gaming,Desa
+Solo,3:09,User_406,user406@gmail.com,85166823278,1976,Samsung,Social Media,Desa
+Bekasi,20:11,User_407,user407@gmail.com,83405633523,1991,Oppo,Social Media,Kota
+Solo,7:40,User_408,user408@gmail.com,82989553434,1995,Oppo,Social Media,Desa
+Balikpapan,14:47,User_409,user409@gmail.com,88953889032,2009,Vivo,Streaming,Kota
+Semarang,17:32,User_410,user410@gmail.com,83009422223,1996,Redmi,Social Media,Desa
+Jakarta,22:04,User_411,user411@gmail.com,83360651735,1993,Apple,Gaming,Kota
+Yogyakarta,8:25,User_412,user412@gmail.com,83495844978,1998,Xiaomi,Social Media,Kota
+Solo,17:29,User_413,user413@gmail.com,88957056192,2001,Vivo,Streaming,Kota
+Solo,21:43,User_414,user414@gmail.com,87423996051,1982,Redmi,Streaming,Kota
+Surabaya,18:34,User_415,user415@gmail.com,86033495456,1981,Vivo,Gaming,Kota
+Denpasar,19:36,User_416,user416@gmail.com,87314572331,1989,Samsung,Gaming,Kota
+Depok,21:30,User_417,user417@gmail.com,83568581521,1987,Xiaomi,Social Media,Kota
+Denpasar,15:54,User_418,user418@gmail.com,86511987246,1998,Samsung,Shopping,Kota
+Yogyakarta,5:07,User_419,user419@gmail.com,85385849795,1973,Oppo,Social Media,Desa
+Denpasar,20:51,User_420,user420@gmail.com,84440136694,1975,Oppo,Social Media,Desa
+Jakarta,19:43,User_421,user421@gmail.com,87094298002,2003,Xiaomi,Shopping,Desa
+Yogyakarta,0:16,User_422,user422@gmail.com,86268348904,2009,Oppo,Shopping,Desa
+Balikpapan,5:44,User_423,user423@gmail.com,86793083914,1973,Redmi,Gaming,Kota
+Bekasi,18:00,User_424,user424@gmail.com,87919254514,1978,Oppo,Streaming,Desa
+Bekasi,5:31,User_425,user425@gmail.com,83604534392,1998,Oppo,Social Media,Kota
+Bandung,2:20,User_426,user426@gmail.com,81149132902,1990,Vivo,Streaming,Kota
+Bandung,16:40,User_427,user427@gmail.com,87443031326,2007,Redmi,Shopping,Desa
+Balikpapan,15:59,User_428,user428@gmail.com,88027958350,1978,Redmi,Streaming,Desa
+Denpasar,12:55,User_429,user429@gmail.com,81789472874,1984,Vivo,Streaming,Desa
+Yogyakarta,19:10,User_430,user430@gmail.com,83674187624,1978,Apple,Streaming,Desa
+Bandung,3:35,User_431,user431@gmail.com,87383388430,1998,Xiaomi,Shopping,Kota
+Bekasi,8:11,User_432,user432@gmail.com,85567274479,2009,Redmi,Gaming,Kota
+Denpasar,5:36,User_433,user433@gmail.com,81505368655,1979,Xiaomi,Shopping,Desa
+Balikpapan,10:24,User_434,user434@gmail.com,83533421607,1997,Apple,Social Media,Desa
+Depok,7:20,User_435,user435@gmail.com,85907484468,1983,Vivo,Streaming,Kota
+Yogyakarta,6:45,User_436,user436@gmail.com,88683255996,1985,Redmi,Social Media,Kota
+Bandung,7:38,User_437,user437@gmail.com,81568803436,1988,Redmi,Shopping,Desa
+Surabaya,1:17,User_438,user438@gmail.com,84017752499,1988,Oppo,Streaming,Desa
+Bandung,22:32,User_439,user439@gmail.com,82137064201,1977,Vivo,Streaming,Desa
+Depok,6:57,User_440,user440@gmail.com,84329294292,2005,Apple,Gaming,Kota
+Denpasar,21:51,User_441,user441@gmail.com,81829005435,1990,Vivo,Social Media,Desa
+Balikpapan,7:10,User_442,user442@gmail.com,84251945815,1975,Xiaomi,Shopping,Desa
+Solo,22:38,User_443,user443@gmail.com,88928840733,1999,Oppo,Social Media,Kota
+Surabaya,7:11,User_444,user444@gmail.com,83980465790,1980,Samsung,Gaming,Desa
+Bekasi,8:46,User_445,user445@gmail.com,87467030492,1983,Apple,Social Media,Desa
+Balikpapan,23:11,User_446,user446@gmail.com,89816851060,1975,Vivo,Shopping,Desa
+Depok,1:27,User_447,user447@gmail.com,83140476915,1985,Apple,Social Media,Desa
+Bekasi,16:18,User_448,user448@gmail.com,87404297947,1997,Oppo,Gaming,Desa
+Balikpapan,3:32,User_449,user449@gmail.com,85166144691,1978,Vivo,Streaming,Desa
+Solo,3:47,User_450,user450@gmail.com,84913732002,1991,Vivo,Shopping,Desa
+Depok,0:36,User_451,user451@gmail.com,89312576077,1996,Apple,Social Media,Kota
+Denpasar,17:33,User_452,user452@gmail.com,89943919650,1986,Oppo,Gaming,Kota
+Depok,10:56,User_453,user453@gmail.com,82324473241,1976,Apple,Streaming,Desa
+Jakarta,10:33,User_454,user454@gmail.com,81121278763,1979,Redmi,Shopping,Desa
+Surabaya,19:24,User_455,user455@gmail.com,89703473536,1999,Apple,Shopping,Desa
+Denpasar,1:46,User_456,user456@gmail.com,87432666992,1980,Samsung,Gaming,Desa
+Bandung,15:15,User_457,user457@gmail.com,86817398708,1992,Redmi,Gaming,Kota
+Bekasi,22:15,User_458,user458@gmail.com,88209238120,1981,Xiaomi,Shopping,Desa
+Surabaya,21:49,User_459,user459@gmail.com,83340967698,1973,Oppo,Gaming,Kota
+Solo,5:02,User_460,user460@gmail.com,84177108650,2006,Vivo,Streaming,Desa
+Yogyakarta,12:05,User_461,user461@gmail.com,89632563085,1990,Samsung,Shopping,Kota
+Bandung,9:29,User_462,user462@gmail.com,81171839195,1984,Xiaomi,Social Media,Desa
+Balikpapan,19:22,User_463,user463@gmail.com,84110835243,1974,Vivo,Streaming,Desa
+Semarang,13:12,User_464,user464@gmail.com,82325139996,1998,Vivo,Shopping,Kota
+Jakarta,8:37,User_465,user465@gmail.com,82754175251,2010,Apple,Social Media,Desa
+Depok,20:28,User_466,user466@gmail.com,86444935338,2002,Xiaomi,Gaming,Kota
+Solo,23:43,User_467,user467@gmail.com,88494680950,1995,Oppo,Social Media,Desa
+Depok,14:41,User_468,user468@gmail.com,87479287250,1971,Apple,Social Media,Desa
+Semarang,9:58,User_469,user469@gmail.com,84287234621,1985,Xiaomi,Social Media,Kota
+Bandung,11:05,User_470,user470@gmail.com,83565058158,2002,Xiaomi,Streaming,Desa
+Jakarta,12:41,User_471,user471@gmail.com,81028071094,1991,Xiaomi,Streaming,Desa
+Balikpapan,7:50,User_472,user472@gmail.com,81992012148,1970,Vivo,Streaming,Kota
+Surabaya,4:44,User_473,user473@gmail.com,83619378268,1981,Xiaomi,Streaming,Desa
+Balikpapan,12:16,User_474,user474@gmail.com,88244664509,2000,Xiaomi,Streaming,Desa
+Semarang,7:40,User_475,user475@gmail.com,83169609380,1979,Xiaomi,Social Media,Kota
+Balikpapan,13:38,User_476,user476@gmail.com,86913948276,1970,Apple,Streaming,Desa
+Bekasi,14:27,User_477,user477@gmail.com,86858061755,1994,Xiaomi,Shopping,Desa
+Denpasar,4:01,User_478,user478@gmail.com,83167654219,1998,Xiaomi,Shopping,Desa
+Denpasar,21:15,User_479,user479@gmail.com,88311071161,1978,Samsung,Gaming,Desa
+Yogyakarta,10:19,User_480,user480@gmail.com,87935015406,1991,Redmi,Streaming,Kota
+Surabaya,17:54,User_481,user481@gmail.com,88414564442,1986,Samsung,Shopping,Desa
+Surabaya,15:43,User_482,user482@gmail.com,82194507936,2008,Samsung,Social Media,Kota
+Jakarta,16:32,User_483,user483@gmail.com,89814220282,1998,Redmi,Social Media,Desa
+Solo,14:15,User_484,user484@gmail.com,87456218943,1988,Apple,Gaming,Desa
+Balikpapan,0:51,User_485,user485@gmail.com,83135098382,1990,Samsung,Streaming,Kota
+Jakarta,20:01,User_486,user486@gmail.com,83838789926,1990,Vivo,Social Media,Kota
+Jakarta,9:37,User_487,user487@gmail.com,83575514553,1980,Apple,Gaming,Kota
+Yogyakarta,8:33,User_488,user488@gmail.com,82561682058,2007,Oppo,Shopping,Kota
+Bandung,21:39,User_489,user489@gmail.com,82981362778,1979,Apple,Streaming,Desa
+Surabaya,17:20,User_490,user490@gmail.com,81645480332,1971,Xiaomi,Streaming,Desa
+Surabaya,23:25,User_491,user491@gmail.com,84964322220,1972,Apple,Streaming,Kota
+Bekasi,3:18,User_492,user492@gmail.com,87043763221,1994,Vivo,Streaming,Desa
+Semarang,11:17,User_493,user493@gmail.com,85834446286,1996,Redmi,Streaming,Kota
+Yogyakarta,17:10,User_494,user494@gmail.com,87701865696,1975,Xiaomi,Shopping,Kota
+Bekasi,7:03,User_495,user495@gmail.com,88054599453,1999,Redmi,Gaming,Kota
+Semarang,22:01,User_496,user496@gmail.com,81972226700,1984,Redmi,Shopping,Kota
+Depok,17:22,User_497,user497@gmail.com,89572361714,1974,Redmi,Social Media,Desa
+Depok,14:42,User_498,user498@gmail.com,86382796360,1980,Apple,Shopping,Desa
+Surabaya,15:16,User_499,user499@gmail.com,83878772600,2004,Vivo,Shopping,Desa
+Balikpapan,20:54,User_500,user500@gmail.com,89356110899,1996,Oppo,Shopping,Kota
+Solo,16:53,User_501,user501@gmail.com,81524076945,1986,Xiaomi,Gaming,Kota
+Bekasi,4:01,User_502,user502@gmail.com,82836477463,1975,Xiaomi,Shopping,Desa
+Semarang,18:43,User_503,user503@gmail.com,85252763220,1995,Redmi,Shopping,Desa
+Denpasar,18:19,User_504,user504@gmail.com,87165314491,1998,Samsung,Gaming,Kota
+Semarang,14:26,User_505,user505@gmail.com,87020146872,2005,Xiaomi,Shopping,Desa
+Jakarta,12:06,User_506,user506@gmail.com,81685924107,1993,Samsung,Streaming,Desa
+Surabaya,23:08,User_507,user507@gmail.com,81185225257,1993,Vivo,Gaming,Desa
+Semarang,17:05,User_508,user508@gmail.com,88194089488,2005,Apple,Gaming,Kota
+Bekasi,14:59,User_509,user509@gmail.com,82325676390,1994,Xiaomi,Gaming,Desa
+Semarang,14:45,User_510,user510@gmail.com,87524873528,1996,Oppo,Gaming,Kota
+Semarang,8:02,User_511,user511@gmail.com,86429459124,1983,Vivo,Gaming,Kota
+Jakarta,10:19,User_512,user512@gmail.com,83884205089,1980,Oppo,Social Media,Kota
+Yogyakarta,23:33,User_513,user513@gmail.com,82749363710,1997,Redmi,Gaming,Desa
+Denpasar,6:30,User_514,user514@gmail.com,83276024743,1984,Vivo,Shopping,Desa
+Semarang,22:36,User_515,user515@gmail.com,81485039956,1998,Apple,Social Media,Desa
+Bekasi,3:27,User_516,user516@gmail.com,81433524789,2006,Xiaomi,Gaming,Desa
+Bandung,14:22,User_517,user517@gmail.com,88817756803,1978,Redmi,Shopping,Kota
+Jakarta,5:44,User_518,user518@gmail.com,87994652996,1979,Xiaomi,Social Media,Kota
+Jakarta,2:40,User_519,user519@gmail.com,86830875419,1984,Samsung,Gaming,Desa
+Jakarta,7:52,User_520,user520@gmail.com,87305144352,1987,Oppo,Shopping,Desa
+Denpasar,3:09,User_521,user521@gmail.com,85700432476,1997,Samsung,Streaming,Kota
+Semarang,21:39,User_522,user522@gmail.com,88081802350,1991,Vivo,Streaming,Desa
+Denpasar,5:15,User_523,user523@gmail.com,83608915095,2008,Apple,Gaming,Kota
+Bekasi,11:16,User_524,user524@gmail.com,81960022960,1973,Oppo,Gaming,Kota
+Yogyakarta,1:17,User_525,user525@gmail.com,87187993247,1982,Redmi,Gaming,Desa
+Bandung,1:15,User_526,user526@gmail.com,82622785576,2009,Redmi,Shopping,Desa
+Depok,2:58,User_527,user527@gmail.com,86571729847,1979,Oppo,Gaming,Kota
+Semarang,14:34,User_528,user528@gmail.com,85127787161,1976,Oppo,Streaming,Desa
+Yogyakarta,4:48,User_529,user529@gmail.com,85984939633,2010,Samsung,Gaming,Desa
+Solo,16:58,User_530,user530@gmail.com,86280075929,2004,Apple,Social Media,Desa
+Bekasi,23:30,User_531,user531@gmail.com,83485466273,2001,Vivo,Social Media,Desa
+Balikpapan,8:07,User_532,user532@gmail.com,89298449802,1973,Redmi,Shopping,Kota
+Jakarta,4:34,User_533,user533@gmail.com,86284280470,2003,Oppo,Social Media,Desa
+Yogyakarta,18:00,User_534,user534@gmail.com,84279561590,1979,Xiaomi,Shopping,Kota
+Jakarta,23:27,User_535,user535@gmail.com,81757614653,1981,Redmi,Streaming,Desa
+Surabaya,0:32,User_536,user536@gmail.com,84827814146,1991,Samsung,Social Media,Desa
+Surabaya,23:25,User_537,user537@gmail.com,83633184829,1978,Xiaomi,Gaming,Kota
+Yogyakarta,22:22,User_538,user538@gmail.com,87020781576,1972,Redmi,Social Media,Kota
+Depok,13:19,User_539,user539@gmail.com,81389891804,1997,Xiaomi,Social Media,Kota
+Depok,23:46,User_540,user540@gmail.com,81708025324,1994,Xiaomi,Social Media,Kota
+Jakarta,3:45,User_541,user541@gmail.com,85961788790,1991,Xiaomi,Gaming,Kota
+Semarang,15:55,User_542,user542@gmail.com,82077673095,1974,Xiaomi,Gaming,Kota
+Denpasar,20:59,User_543,user543@gmail.com,85358403489,2002,Apple,Streaming,Desa
+Bekasi,20:34,User_544,user544@gmail.com,83822211762,1997,Oppo,Social Media,Desa
+Bandung,1:43,User_545,user545@gmail.com,86918373491,1971,Apple,Shopping,Desa
+Balikpapan,12:13,User_546,user546@gmail.com,86244467351,2008,Xiaomi,Streaming,Kota
+Yogyakarta,1:44,User_547,user547@gmail.com,81888543805,2007,Apple,Gaming,Desa
+Depok,15:55,User_548,user548@gmail.com,89886146822,1981,Samsung,Social Media,Desa
+Semarang,15:02,User_549,user549@gmail.com,85443825599,1976,Samsung,Streaming,Desa
+Bekasi,9:53,User_550,user550@gmail.com,81048885148,1974,Redmi,Shopping,Desa
+Semarang,20:16,User_551,user551@gmail.com,84441375026,1984,Samsung,Gaming,Desa
+Bekasi,6:01,User_552,user552@gmail.com,84403526937,1993,Apple,Social Media,Desa
+Jakarta,21:35,User_553,user553@gmail.com,81800968054,2006,Redmi,Shopping,Desa
+Bandung,5:12,User_554,user554@gmail.com,83602456264,1982,Redmi,Gaming,Kota
+Balikpapan,8:54,User_555,user555@gmail.com,85904494474,1995,Redmi,Gaming,Desa
+Surabaya,0:55,User_556,user556@gmail.com,82666382260,2008,Oppo,Gaming,Kota
+Depok,7:38,User_557,user557@gmail.com,88622187498,1988,Apple,Social Media,Kota
+Depok,16:09,User_558,user558@gmail.com,83961017178,1988,Samsung,Streaming,Desa
+Denpasar,5:18,User_559,user559@gmail.com,81635345917,2007,Oppo,Social Media,Desa
+Balikpapan,5:57,User_560,user560@gmail.com,88248872258,2000,Xiaomi,Streaming,Desa
+Semarang,11:48,User_561,user561@gmail.com,83586506374,1983,Xiaomi,Social Media,Kota
+Bandung,5:30,User_562,user562@gmail.com,84529753996,1999,Redmi,Streaming,Desa
+Bekasi,12:54,User_563,user563@gmail.com,83570370509,2000,Oppo,Streaming,Desa
+Bekasi,16:17,User_564,user564@gmail.com,88389511109,2007,Samsung,Shopping,Kota
+Solo,18:22,User_565,user565@gmail.com,88257711995,1985,Samsung,Shopping,Desa
+Depok,9:34,User_566,user566@gmail.com,85297717338,1990,Xiaomi,Social Media,Kota
+Depok,23:14,User_567,user567@gmail.com,83197046505,2001,Xiaomi,Social Media,Desa
+Solo,4:35,User_568,user568@gmail.com,89007414109,2001,Xiaomi,Streaming,Kota
+Balikpapan,14:18,User_569,user569@gmail.com,84944441150,1987,Oppo,Shopping,Kota
+Solo,13:39,User_570,user570@gmail.com,88519423505,2000,Vivo,Social Media,Kota
+Bandung,21:58,User_571,user571@gmail.com,81086056474,1978,Apple,Gaming,Desa
+Semarang,8:57,User_572,user572@gmail.com,88137883473,1970,Oppo,Streaming,Desa
+Yogyakarta,13:26,User_573,user573@gmail.com,82169237327,1991,Xiaomi,Streaming,Desa
+Yogyakarta,21:44,User_574,user574@gmail.com,86651176935,1976,Redmi,Social Media,Desa
+Solo,0:49,User_575,user575@gmail.com,83935488199,1998,Redmi,Streaming,Kota
+Surabaya,17:05,User_576,user576@gmail.com,88234898312,1977,Samsung,Social Media,Kota
+Semarang,14:41,User_577,user577@gmail.com,85427703913,1988,Redmi,Social Media,Kota
+Bandung,12:29,User_578,user578@gmail.com,82017344630,1979,Redmi,Social Media,Desa
+Depok,4:14,User_579,user579@gmail.com,82660073691,1978,Samsung,Social Media,Desa
+Jakarta,5:21,User_580,user580@gmail.com,81730396875,1972,Apple,Shopping,Kota
+Depok,19:46,User_581,user581@gmail.com,88266140630,1975,Oppo,Social Media,Kota
+Bandung,19:45,User_582,user582@gmail.com,89257157723,1984,Oppo,Streaming,Kota
+Depok,8:33,User_583,user583@gmail.com,89971472479,1971,Samsung,Social Media,Kota
+Solo,15:23,User_584,user584@gmail.com,81134877969,1997,Oppo,Social Media,Kota
+Bandung,1:18,User_585,user585@gmail.com,85931061690,1995,Apple,Social Media,Desa
+Balikpapan,3:20,User_586,user586@gmail.com,82581125194,1982,Vivo,Streaming,Desa
+Denpasar,3:03,User_587,user587@gmail.com,84675102262,1982,Apple,Social Media,Desa
+Solo,0:53,User_588,user588@gmail.com,89084922158,1977,Redmi,Shopping,Desa
+Balikpapan,9:54,User_589,user589@gmail.com,84432387974,1980,Apple,Streaming,Kota
+Denpasar,20:11,User_590,user590@gmail.com,82367047960,1998,Samsung,Social Media,Kota
+Depok,7:29,User_591,user591@gmail.com,82018645993,2009,Oppo,Social Media,Desa
+Yogyakarta,5:14,User_592,user592@gmail.com,89850078060,1987,Apple,Social Media,Kota
+Denpasar,4:40,User_593,user593@gmail.com,84518707737,1986,Apple,Streaming,Kota
+Jakarta,9:36,User_594,user594@gmail.com,88833932583,1977,Oppo,Gaming,Desa
+Surabaya,2:53,User_595,user595@gmail.com,87830620279,1972,Redmi,Shopping,Kota
+Bandung,4:10,User_596,user596@gmail.com,88087725803,2008,Oppo,Gaming,Kota
+Semarang,20:56,User_597,user597@gmail.com,82240991463,1990,Xiaomi,Gaming,Desa
+Jakarta,15:41,User_598,user598@gmail.com,89405035523,2007,Oppo,Social Media,Desa
+Bekasi,5:43,User_599,user599@gmail.com,85329669575,1994,Redmi,Shopping,Kota
+Surabaya,8:10,User_600,user600@gmail.com,83694424666,1977,Oppo,Gaming,Kota
+Surabaya,20:28,User_601,user601@gmail.com,81424600583,2005,Samsung,Social Media,Kota
+Depok,5:36,User_602,user602@gmail.com,88753012952,1974,Redmi,Shopping,Desa
+Balikpapan,16:28,User_603,user603@gmail.com,85371046934,1998,Apple,Streaming,Kota
+Bekasi,7:06,User_604,user604@gmail.com,87638827941,1995,Samsung,Streaming,Desa
+Yogyakarta,1:18,User_605,user605@gmail.com,82969101343,2008,Vivo,Social Media,Desa
+Surabaya,13:12,User_606,user606@gmail.com,89802115488,1982,Vivo,Gaming,Desa
+Jakarta,23:21,User_607,user607@gmail.com,89287085153,1983,Samsung,Social Media,Kota
+Depok,4:25,User_608,user608@gmail.com,82651316978,1989,Apple,Gaming,Kota
+Balikpapan,2:47,User_609,user609@gmail.com,82015835784,1986,Xiaomi,Gaming,Desa
+Bekasi,22:45,User_610,user610@gmail.com,87530655653,1973,Oppo,Streaming,Desa
+Jakarta,5:21,User_611,user611@gmail.com,87802718552,1989,Xiaomi,Social Media,Desa
+Surabaya,9:50,User_612,user612@gmail.com,86284875644,1990,Xiaomi,Gaming,Kota
+Solo,4:56,User_613,user613@gmail.com,85160889242,1971,Xiaomi,Shopping,Kota
+Surabaya,11:15,User_614,user614@gmail.com,85364650495,1985,Samsung,Shopping,Desa
+Surabaya,21:04,User_615,user615@gmail.com,82958634143,2000,Vivo,Shopping,Kota
+Surabaya,1:03,User_616,user616@gmail.com,83267483705,1980,Samsung,Streaming,Desa
+Yogyakarta,22:49,User_617,user617@gmail.com,82633306226,1993,Samsung,Social Media,Kota
+Bandung,6:30,User_618,user618@gmail.com,84018095963,1972,Samsung,Social Media,Desa
+Bandung,22:37,User_619,user619@gmail.com,82594265015,1992,Oppo,Shopping,Desa
+Semarang,20:22,User_620,user620@gmail.com,87410045034,1995,Apple,Shopping,Kota
+Solo,0:50,User_621,user621@gmail.com,89884312417,1989,Vivo,Gaming,Kota
+Jakarta,0:25,User_622,user622@gmail.com,87751693956,2006,Xiaomi,Shopping,Desa
+Jakarta,2:46,User_623,user623@gmail.com,84470850886,2010,Apple,Shopping,Desa
+Semarang,11:16,User_624,user624@gmail.com,81751644670,1970,Oppo,Shopping,Kota
+Denpasar,7:13,User_625,user625@gmail.com,86351486255,1981,Vivo,Social Media,Desa
+Bandung,5:45,User_626,user626@gmail.com,86827297896,2006,Xiaomi,Social Media,Desa
+Surabaya,13:15,User_627,user627@gmail.com,86353666298,1978,Redmi,Shopping,Desa
+Jakarta,21:00,User_628,user628@gmail.com,85800520520,1983,Oppo,Gaming,Kota
+Semarang,12:25,User_629,user629@gmail.com,86648938532,1979,Vivo,Streaming,Desa
+Solo,15:18,User_630,user630@gmail.com,84459220113,1996,Vivo,Gaming,Kota
+Yogyakarta,7:07,User_631,user631@gmail.com,88943059894,1992,Apple,Shopping,Desa
+Solo,23:27,User_632,user632@gmail.com,88660952705,2004,Vivo,Social Media,Kota
+Depok,12:46,User_633,user633@gmail.com,89717919833,2007,Apple,Gaming,Desa
+Balikpapan,6:38,User_634,user634@gmail.com,85645921156,2004,Apple,Streaming,Desa
+Semarang,0:18,User_635,user635@gmail.com,83598418991,2000,Oppo,Streaming,Kota
+Semarang,20:26,User_636,user636@gmail.com,82509984110,1975,Oppo,Shopping,Kota
+Surabaya,6:34,User_637,user637@gmail.com,88993037203,2007,Samsung,Shopping,Desa
+Semarang,4:03,User_638,user638@gmail.com,82611886624,1977,Apple,Streaming,Kota
+Solo,14:48,User_639,user639@gmail.com,86848569443,2002,Oppo,Streaming,Desa
+Bekasi,21:38,User_640,user640@gmail.com,84821285542,1994,Redmi,Gaming,Desa
+Bandung,14:06,User_641,user641@gmail.com,83686238427,1974,Vivo,Streaming,Desa
+Bandung,7:31,User_642,user642@gmail.com,81122174770,1977,Apple,Social Media,Kota
+Bekasi,13:50,User_643,user643@gmail.com,85879214399,1981,Redmi,Streaming,Desa
+Balikpapan,3:16,User_644,user644@gmail.com,81692657468,2004,Redmi,Gaming,Kota
+Yogyakarta,11:06,User_645,user645@gmail.com,89896978883,1980,Samsung,Shopping,Kota
+Balikpapan,9:26,User_646,user646@gmail.com,88552984600,1972,Redmi,Gaming,Kota
+Balikpapan,13:42,User_647,user647@gmail.com,85675664179,1986,Xiaomi,Shopping,Desa
+Semarang,0:47,User_648,user648@gmail.com,86782784925,2008,Vivo,Streaming,Desa
+Surabaya,14:31,User_649,user649@gmail.com,83468438438,1999,Samsung,Shopping,Kota
+Bandung,5:52,User_650,user650@gmail.com,84812558561,1992,Redmi,Shopping,Desa
+Depok,5:07,User_651,user651@gmail.com,82086652771,1981,Oppo,Gaming,Kota
+Yogyakarta,23:48,User_652,user652@gmail.com,89660363609,1997,Apple,Streaming,Kota
+Denpasar,11:49,User_653,user653@gmail.com,83967818112,2006,Apple,Social Media,Kota
+Yogyakarta,8:54,User_654,user654@gmail.com,86599394925,1981,Redmi,Streaming,Desa
+Surabaya,10:52,User_655,user655@gmail.com,85831443905,1973,Vivo,Shopping,Kota
+Bekasi,20:36,User_656,user656@gmail.com,89294570626,2010,Apple,Gaming,Kota
+Depok,15:43,User_657,user657@gmail.com,86382646046,1978,Xiaomi,Streaming,Kota
+Depok,20:16,User_658,user658@gmail.com,86930073707,2003,Oppo,Social Media,Desa
+Bekasi,13:36,User_659,user659@gmail.com,84369186906,1976,Oppo,Social Media,Desa
+Solo,8:23,User_660,user660@gmail.com,86256562557,1978,Redmi,Gaming,Desa
+Balikpapan,22:14,User_661,user661@gmail.com,89893513280,1977,Vivo,Shopping,Desa
+Surabaya,19:30,User_662,user662@gmail.com,87022435498,1972,Redmi,Gaming,Kota
+Bandung,0:17,User_663,user663@gmail.com,87576139808,1993,Redmi,Streaming,Kota
+Bandung,12:28,User_664,user664@gmail.com,83291589236,1971,Samsung,Social Media,Kota
+Yogyakarta,1:31,User_665,user665@gmail.com,88796382562,2000,Xiaomi,Social Media,Kota
+Depok,14:28,User_666,user666@gmail.com,87279413511,1983,Vivo,Gaming,Kota
+Balikpapan,2:06,User_667,user667@gmail.com,85803339861,1972,Oppo,Shopping,Kota
+Bandung,9:04,User_668,user668@gmail.com,89221341091,2000,Samsung,Streaming,Desa
+Semarang,8:28,User_669,user669@gmail.com,84176583664,2000,Redmi,Social Media,Desa
+Solo,8:54,User_670,user670@gmail.com,87536111695,2006,Oppo,Streaming,Kota
+Bekasi,5:23,User_671,user671@gmail.com,87622815814,1999,Xiaomi,Shopping,Kota
+Jakarta,22:33,User_672,user672@gmail.com,83421735342,1996,Xiaomi,Shopping,Kota
+Jakarta,12:10,User_673,user673@gmail.com,89227074428,1996,Vivo,Streaming,Desa
+Surabaya,15:06,User_674,user674@gmail.com,89618394350,1992,Oppo,Gaming,Desa
+Denpasar,10:35,User_675,user675@gmail.com,83175660090,1996,Samsung,Shopping,Kota
+Solo,19:53,User_676,user676@gmail.com,87172221795,2006,Samsung,Shopping,Kota
+Bekasi,1:49,User_677,user677@gmail.com,89343365180,1980,Vivo,Streaming,Desa
+Surabaya,13:16,User_678,user678@gmail.com,81395215912,1992,Apple,Social Media,Kota
+Yogyakarta,10:06,User_679,user679@gmail.com,89865141827,2009,Oppo,Streaming,Kota
+Jakarta,9:19,User_680,user680@gmail.com,86759281653,1986,Samsung,Shopping,Kota
+Depok,18:03,User_681,user681@gmail.com,86026811948,2006,Oppo,Gaming,Desa
+Yogyakarta,6:32,User_682,user682@gmail.com,84699515594,1979,Apple,Social Media,Desa
+Balikpapan,10:50,User_683,user683@gmail.com,88683655651,1978,Xiaomi,Social Media,Desa
+Yogyakarta,4:23,User_684,user684@gmail.com,86431957628,1988,Samsung,Social Media,Desa
+Bekasi,8:30,User_685,user685@gmail.com,89572539596,1993,Redmi,Streaming,Desa
+Yogyakarta,16:06,User_686,user686@gmail.com,86192488731,1973,Xiaomi,Streaming,Kota
+Solo,6:35,User_687,user687@gmail.com,81742263135,2006,Oppo,Shopping,Desa
+Depok,7:29,User_688,user688@gmail.com,87189251295,1995,Redmi,Streaming,Kota
+Balikpapan,18:28,User_689,user689@gmail.com,84141839659,1980,Xiaomi,Streaming,Kota
+Yogyakarta,10:19,User_690,user690@gmail.com,82839297932,1981,Oppo,Streaming,Desa
+Yogyakarta,22:13,User_691,user691@gmail.com,86082179033,2006,Apple,Streaming,Desa
+Depok,14:51,User_692,user692@gmail.com,84994535354,2005,Redmi,Gaming,Kota
+Yogyakarta,2:03,User_693,user693@gmail.com,83959145754,1974,Redmi,Gaming,Kota
+Surabaya,17:15,User_694,user694@gmail.com,81987949978,1993,Apple,Shopping,Desa
+Jakarta,14:56,User_695,user695@gmail.com,86774982215,1985,Xiaomi,Streaming,Desa
+Denpasar,6:43,User_696,user696@gmail.com,84555545612,1977,Oppo,Social Media,Kota
+Jakarta,1:42,User_697,user697@gmail.com,88501200668,1976,Apple,Streaming,Desa
+Bandung,8:28,User_698,user698@gmail.com,88486622767,1998,Redmi,Streaming,Kota
+Surabaya,21:54,User_699,user699@gmail.com,82752855102,2010,Xiaomi,Streaming,Kota
+Denpasar,5:23,User_700,user700@gmail.com,83589156687,1992,Apple,Gaming,Desa
+Depok,22:32,User_701,user701@gmail.com,87627799938,1986,Apple,Streaming,Desa
+Semarang,14:47,User_702,user702@gmail.com,87915942352,1992,Vivo,Social Media,Desa
+Jakarta,11:39,User_703,user703@gmail.com,85660553623,1982,Oppo,Streaming,Desa
+Surabaya,21:29,User_704,user704@gmail.com,89127632750,1986,Xiaomi,Streaming,Kota
+Semarang,20:08,User_705,user705@gmail.com,86157824809,2001,Samsung,Gaming,Desa
+Semarang,16:23,User_706,user706@gmail.com,84087850213,1980,Redmi,Social Media,Desa
+Jakarta,4:37,User_707,user707@gmail.com,88635542709,1987,Redmi,Gaming,Desa
+Denpasar,17:48,User_708,user708@gmail.com,88407234723,2001,Apple,Gaming,Kota
+Bandung,15:24,User_709,user709@gmail.com,85242784119,1973,Samsung,Streaming,Desa
+Bandung,19:27,User_710,user710@gmail.com,87811354518,1991,Oppo,Social Media,Desa
+Depok,4:39,User_711,user711@gmail.com,87545476155,1991,Redmi,Streaming,Kota
+Jakarta,1:54,User_712,user712@gmail.com,88582676866,1986,Samsung,Gaming,Desa
+Denpasar,22:57,User_713,user713@gmail.com,89629485461,1984,Samsung,Streaming,Desa
+Balikpapan,21:35,User_714,user714@gmail.com,85179425310,1983,Oppo,Shopping,Kota
+Bekasi,13:14,User_715,user715@gmail.com,85217736850,2000,Samsung,Shopping,Desa
+Depok,1:06,User_716,user716@gmail.com,82708306314,1980,Samsung,Shopping,Desa
+Jakarta,20:54,User_717,user717@gmail.com,86144072861,1992,Oppo,Gaming,Desa
+Jakarta,20:06,User_718,user718@gmail.com,89241140630,1984,Vivo,Social Media,Desa
+Bandung,22:25,User_719,user719@gmail.com,82899593846,2008,Samsung,Social Media,Kota
+Semarang,1:00,User_720,user720@gmail.com,86292766013,1972,Samsung,Shopping,Kota
+Surabaya,19:01,User_721,user721@gmail.com,88289997449,1986,Vivo,Gaming,Kota
+Denpasar,12:45,User_722,user722@gmail.com,83509583934,1998,Apple,Gaming,Desa
+Bekasi,2:29,User_723,user723@gmail.com,84765262688,2008,Xiaomi,Social Media,Desa
+Surabaya,16:07,User_724,user724@gmail.com,81899128319,1971,Vivo,Gaming,Kota
+Depok,19:07,User_725,user725@gmail.com,81045906330,1981,Xiaomi,Social Media,Kota
+Balikpapan,14:04,User_726,user726@gmail.com,81199686609,2000,Vivo,Shopping,Desa
+Balikpapan,6:24,User_727,user727@gmail.com,81734852741,1998,Vivo,Shopping,Kota
+Depok,17:04,User_728,user728@gmail.com,88912070995,2000,Vivo,Shopping,Desa
+Denpasar,11:24,User_729,user729@gmail.com,84616417209,1995,Redmi,Social Media,Kota
+Yogyakarta,18:35,User_730,user730@gmail.com,89468520607,1983,Oppo,Streaming,Desa
+Semarang,2:21,User_731,user731@gmail.com,88660937407,1990,Samsung,Streaming,Kota
+Denpasar,15:31,User_732,user732@gmail.com,86632987024,2004,Apple,Streaming,Kota
+Solo,14:02,User_733,user733@gmail.com,88295620316,2007,Oppo,Social Media,Desa
+Balikpapan,18:51,User_734,user734@gmail.com,81705446287,2006,Vivo,Shopping,Desa
+Yogyakarta,11:21,User_735,user735@gmail.com,84243131948,1974,Vivo,Shopping,Desa
+Jakarta,0:16,User_736,user736@gmail.com,86837004701,1985,Apple,Gaming,Desa
+Semarang,16:43,User_737,user737@gmail.com,83290551442,1995,Xiaomi,Social Media,Desa
+Yogyakarta,1:22,User_738,user738@gmail.com,87346762403,2007,Vivo,Streaming,Desa
+Yogyakarta,7:19,User_739,user739@gmail.com,85643198088,2008,Vivo,Shopping,Kota
+Yogyakarta,21:29,User_740,user740@gmail.com,86077408183,1997,Xiaomi,Social Media,Desa
+Solo,23:56,User_741,user741@gmail.com,88107134303,2003,Oppo,Social Media,Desa
+Jakarta,1:49,User_742,user742@gmail.com,84743691285,1988,Apple,Social Media,Kota
+Depok,12:43,User_743,user743@gmail.com,85432733891,1973,Vivo,Social Media,Desa
+Depok,20:09,User_744,user744@gmail.com,87850504932,1979,Samsung,Gaming,Kota
+Yogyakarta,18:16,User_745,user745@gmail.com,85483256887,1970,Samsung,Gaming,Kota
+Surabaya,8:20,User_746,user746@gmail.com,85281371438,1976,Redmi,Streaming,Desa
+Jakarta,8:19,User_747,user747@gmail.com,85346265695,1990,Samsung,Streaming,Kota
+Bandung,0:08,User_748,user748@gmail.com,83898542955,1989,Redmi,Gaming,Kota
+Denpasar,9:25,User_749,user749@gmail.com,87657919503,1998,Oppo,Shopping,Kota
+Depok,1:06,User_750,user750@gmail.com,84317223873,1990,Redmi,Gaming,Desa
+Surabaya,8:48,User_751,user751@gmail.com,81500948244,1982,Vivo,Gaming,Kota
+Surabaya,13:17,User_752,user752@gmail.com,87811117532,1988,Samsung,Gaming,Kota
+Bandung,9:43,User_753,user753@gmail.com,89413753814,1978,Redmi,Social Media,Desa
+Balikpapan,16:28,User_754,user754@gmail.com,84872784598,1999,Apple,Streaming,Kota
+Bekasi,12:04,User_755,user755@gmail.com,86813999792,1972,Oppo,Shopping,Desa
+Solo,18:19,User_756,user756@gmail.com,88525334257,1985,Samsung,Social Media,Kota
+Balikpapan,21:46,User_757,user757@gmail.com,84350407516,1977,Oppo,Social Media,Desa
+Yogyakarta,12:42,User_758,user758@gmail.com,88014865805,1994,Xiaomi,Shopping,Desa
+Depok,8:13,User_759,user759@gmail.com,87370862529,2004,Apple,Shopping,Desa
+Denpasar,9:33,User_760,user760@gmail.com,85731050892,1972,Redmi,Streaming,Kota
+Semarang,22:32,User_761,user761@gmail.com,84464809481,1988,Xiaomi,Streaming,Desa
+Depok,7:52,User_762,user762@gmail.com,84619073096,2009,Oppo,Shopping,Kota
+Yogyakarta,0:05,User_763,user763@gmail.com,88670520129,1984,Vivo,Streaming,Kota
+Bekasi,23:12,User_764,user764@gmail.com,82956400152,1996,Apple,Social Media,Desa
+Balikpapan,10:42,User_765,user765@gmail.com,82289850531,2006,Redmi,Gaming,Desa
+Surabaya,0:07,User_766,user766@gmail.com,86024604880,1981,Redmi,Shopping,Desa
+Depok,8:29,User_767,user767@gmail.com,81959836623,2007,Oppo,Shopping,Kota
+Yogyakarta,8:41,User_768,user768@gmail.com,86572933748,2001,Xiaomi,Shopping,Desa
+Bandung,23:15,User_769,user769@gmail.com,81533017123,1989,Vivo,Gaming,Kota
+Surabaya,1:22,User_770,user770@gmail.com,82928982084,1975,Vivo,Shopping,Desa
+Denpasar,0:29,User_771,user771@gmail.com,81479544371,1997,Oppo,Gaming,Kota
+Semarang,4:12,User_772,user772@gmail.com,83985522785,1997,Redmi,Social Media,Kota
+Yogyakarta,13:03,User_773,user773@gmail.com,85277877149,1980,Xiaomi,Social Media,Desa
+Balikpapan,9:26,User_774,user774@gmail.com,84709137011,1982,Oppo,Social Media,Kota
+Bekasi,5:00,User_775,user775@gmail.com,86214974586,1975,Xiaomi,Social Media,Desa
+Yogyakarta,7:30,User_776,user776@gmail.com,84971401389,1990,Vivo,Social Media,Kota
+Depok,7:03,User_777,user777@gmail.com,85003744292,1985,Vivo,Gaming,Desa
+Jakarta,12:38,User_778,user778@gmail.com,82967202931,2009,Apple,Gaming,Desa
+Denpasar,22:18,User_779,user779@gmail.com,82427332449,1976,Samsung,Streaming,Desa
+Balikpapan,8:08,User_780,user780@gmail.com,83631366989,1998,Oppo,Streaming,Desa
+Depok,23:14,User_781,user781@gmail.com,86257550949,1975,Xiaomi,Streaming,Kota
+Bandung,10:33,User_782,user782@gmail.com,82155981368,1977,Samsung,Social Media,Kota
+Jakarta,22:55,User_783,user783@gmail.com,82281735760,1975,Vivo,Shopping,Kota
+Bekasi,20:30,User_784,user784@gmail.com,88165925960,1976,Xiaomi,Shopping,Desa
+Depok,14:55,User_785,user785@gmail.com,85698062356,1977,Vivo,Gaming,Desa
+Denpasar,7:08,User_786,user786@gmail.com,87032502555,1990,Apple,Shopping,Desa
+Semarang,0:36,User_787,user787@gmail.com,83743494522,1975,Apple,Gaming,Kota
+Surabaya,15:34,User_788,user788@gmail.com,85255260009,1981,Xiaomi,Streaming,Kota
+Balikpapan,6:55,User_789,user789@gmail.com,87378067923,1986,Oppo,Shopping,Kota
+Solo,2:30,User_790,user790@gmail.com,89711908491,1979,Samsung,Gaming,Kota
+Semarang,11:40,User_791,user791@gmail.com,82973498258,2006,Oppo,Streaming,Kota
+Yogyakarta,22:37,User_792,user792@gmail.com,87304877177,2007,Oppo,Social Media,Desa
+Solo,19:37,User_793,user793@gmail.com,87075160335,1970,Samsung,Streaming,Desa
+Semarang,3:45,User_794,user794@gmail.com,88230726665,1990,Redmi,Shopping,Desa
+Semarang,0:05,User_795,user795@gmail.com,89550475131,1981,Redmi,Social Media,Desa
+Yogyakarta,11:10,User_796,user796@gmail.com,89354151460,1988,Redmi,Social Media,Kota
+Semarang,17:59,User_797,user797@gmail.com,87832762601,2000,Vivo,Social Media,Kota
+Depok,6:01,User_798,user798@gmail.com,82308709155,1994,Redmi,Gaming,Kota
+Jakarta,14:47,User_799,user799@gmail.com,87245136528,2002,Xiaomi,Streaming,Kota
+Solo,22:57,User_800,user800@gmail.com,81384981720,1993,Redmi,Social Media,Desa
+Jakarta,22:17,User_801,user801@gmail.com,85108162449,2005,Xiaomi,Shopping,Desa
+Depok,6:13,User_802,user802@gmail.com,88540476010,1980,Apple,Shopping,Desa
+Denpasar,11:55,User_803,user803@gmail.com,83169512876,1987,Apple,Social Media,Kota
+Denpasar,22:25,User_804,user804@gmail.com,86998241084,1988,Oppo,Gaming,Desa
+Solo,19:59,User_805,user805@gmail.com,81083358983,1990,Oppo,Streaming,Kota
+Bandung,10:50,User_806,user806@gmail.com,83553007551,1997,Xiaomi,Streaming,Kota
+Bekasi,19:20,User_807,user807@gmail.com,88477706620,1981,Samsung,Social Media,Desa
+Bandung,9:41,User_808,user808@gmail.com,89320109275,1995,Redmi,Streaming,Kota
+Depok,16:19,User_809,user809@gmail.com,82500015796,1988,Apple,Social Media,Kota
+Semarang,10:41,User_810,user810@gmail.com,83461313843,1990,Apple,Streaming,Desa
+Bandung,13:22,User_811,user811@gmail.com,88173616687,2005,Apple,Shopping,Kota
+Jakarta,8:47,User_812,user812@gmail.com,82881883277,1982,Oppo,Streaming,Desa
+Denpasar,13:01,User_813,user813@gmail.com,81844529076,1978,Apple,Social Media,Kota
+Bekasi,0:44,User_814,user814@gmail.com,82918088896,2005,Oppo,Shopping,Kota
+Jakarta,21:32,User_815,user815@gmail.com,89833223417,1974,Redmi,Shopping,Desa
+Yogyakarta,9:43,User_816,user816@gmail.com,81996436120,2007,Apple,Streaming,Kota
+Jakarta,14:38,User_817,user817@gmail.com,85154392373,1979,Vivo,Gaming,Desa
+Denpasar,7:20,User_818,user818@gmail.com,87962093673,1978,Apple,Gaming,Kota
+Solo,8:48,User_819,user819@gmail.com,83660671495,2002,Apple,Shopping,Kota
+Bandung,1:06,User_820,user820@gmail.com,86827590187,1987,Apple,Social Media,Desa
+Semarang,2:27,User_821,user821@gmail.com,83167868382,1970,Samsung,Gaming,Desa
+Balikpapan,7:59,User_822,user822@gmail.com,87200010369,1985,Oppo,Shopping,Desa
+Denpasar,7:00,User_823,user823@gmail.com,88415695957,1982,Samsung,Gaming,Kota
+Semarang,4:57,User_824,user824@gmail.com,86123607684,1993,Xiaomi,Gaming,Desa
+Denpasar,6:47,User_825,user825@gmail.com,84910753842,1972,Oppo,Gaming,Kota
+Balikpapan,20:31,User_826,user826@gmail.com,84691728742,1992,Apple,Gaming,Kota
+Balikpapan,12:26,User_827,user827@gmail.com,82332264119,1982,Oppo,Streaming,Desa
+Balikpapan,21:48,User_828,user828@gmail.com,84058146686,1976,Oppo,Streaming,Desa
+Solo,6:01,User_829,user829@gmail.com,81295552714,1982,Apple,Shopping,Desa
+Semarang,4:24,User_830,user830@gmail.com,83070148669,1975,Samsung,Shopping,Desa
+Yogyakarta,19:41,User_831,user831@gmail.com,83649185825,2003,Vivo,Gaming,Kota
+Semarang,17:22,User_832,user832@gmail.com,82993679413,1994,Apple,Shopping,Desa
+Denpasar,1:33,User_833,user833@gmail.com,87246689403,1985,Oppo,Shopping,Kota
+Depok,22:41,User_834,user834@gmail.com,81737551841,1971,Apple,Shopping,Kota
+Jakarta,19:20,User_835,user835@gmail.com,82015593784,2000,Xiaomi,Gaming,Kota
+Bekasi,18:33,User_836,user836@gmail.com,85333830771,2004,Xiaomi,Streaming,Kota
+Solo,15:46,User_837,user837@gmail.com,83408306333,2007,Samsung,Shopping,Kota
+Surabaya,2:16,User_838,user838@gmail.com,83497151669,1991,Samsung,Shopping,Kota
+Depok,11:08,User_839,user839@gmail.com,86891481707,1993,Vivo,Streaming,Kota
+Surabaya,6:24,User_840,user840@gmail.com,84197002466,1983,Oppo,Streaming,Kota
+Jakarta,1:49,User_841,user841@gmail.com,88767622483,2010,Apple,Shopping,Desa
+Depok,14:09,User_842,user842@gmail.com,88208071041,1995,Samsung,Streaming,Desa
+Depok,19:06,User_843,user843@gmail.com,85874660350,1984,Apple,Shopping,Desa
+Depok,3:45,User_844,user844@gmail.com,85221452691,1970,Oppo,Social Media,Desa
+Surabaya,13:25,User_845,user845@gmail.com,84991172577,1996,Vivo,Shopping,Kota
+Balikpapan,19:33,User_846,user846@gmail.com,86137711450,1972,Xiaomi,Shopping,Kota
+Yogyakarta,20:40,User_847,user847@gmail.com,81691800966,1991,Xiaomi,Streaming,Desa
+Semarang,19:12,User_848,user848@gmail.com,86405028584,2002,Redmi,Shopping,Kota
+Jakarta,20:17,User_849,user849@gmail.com,83841269745,1992,Redmi,Streaming,Desa
+Surabaya,2:06,User_850,user850@gmail.com,83232358969,1973,Samsung,Shopping,Kota
+Semarang,12:30,User_851,user851@gmail.com,89415525558,1981,Oppo,Shopping,Kota
+Surabaya,5:44,User_852,user852@gmail.com,83881620645,1982,Vivo,Social Media,Kota
+Bekasi,15:02,User_853,user853@gmail.com,86946235757,1985,Redmi,Gaming,Desa
+Semarang,23:54,User_854,user854@gmail.com,83451149323,2009,Vivo,Gaming,Desa
+Balikpapan,7:31,User_855,user855@gmail.com,85523048432,1987,Vivo,Shopping,Desa
+Bandung,4:07,User_856,user856@gmail.com,82635866893,1977,Oppo,Streaming,Kota
+Depok,10:24,User_857,user857@gmail.com,88813095250,2003,Vivo,Streaming,Kota
+Balikpapan,7:24,User_858,user858@gmail.com,84443644796,2000,Samsung,Social Media,Kota
+Semarang,10:50,User_859,user859@gmail.com,85705626368,1974,Redmi,Social Media,Desa
+Bandung,0:47,User_860,user860@gmail.com,87700913056,2009,Xiaomi,Social Media,Kota
+Surabaya,8:50,User_861,user861@gmail.com,87220710943,2003,Samsung,Streaming,Kota
+Yogyakarta,18:20,User_862,user862@gmail.com,81225654673,1986,Redmi,Gaming,Kota
+Bandung,17:58,User_863,user863@gmail.com,85948821566,2005,Xiaomi,Shopping,Desa
+Denpasar,0:16,User_864,user864@gmail.com,88246212182,1993,Samsung,Gaming,Kota
+Semarang,8:09,User_865,user865@gmail.com,81064306072,2010,Vivo,Social Media,Desa
+Bandung,1:00,User_866,user866@gmail.com,83916143147,1991,Vivo,Social Media,Desa
+Bekasi,11:00,User_867,user867@gmail.com,83347399763,1996,Apple,Shopping,Desa
+Depok,9:31,User_868,user868@gmail.com,82596740498,1974,Vivo,Streaming,Desa
+Depok,12:25,User_869,user869@gmail.com,85002601552,1976,Vivo,Streaming,Desa
+Balikpapan,10:23,User_870,user870@gmail.com,89925212567,1987,Xiaomi,Shopping,Desa
+Semarang,11:28,User_871,user871@gmail.com,84017538416,1974,Samsung,Shopping,Desa
+Semarang,15:12,User_872,user872@gmail.com,85151742347,1980,Redmi,Shopping,Kota
+Depok,8:35,User_873,user873@gmail.com,84554521137,1996,Samsung,Shopping,Kota
+Yogyakarta,1:47,User_874,user874@gmail.com,88098602602,1971,Redmi,Streaming,Desa
+Surabaya,15:07,User_875,user875@gmail.com,82114270665,2007,Vivo,Shopping,Kota
+Balikpapan,21:46,User_876,user876@gmail.com,84576398989,2000,Oppo,Streaming,Desa
+Bekasi,18:29,User_877,user877@gmail.com,82960743526,1970,Xiaomi,Streaming,Desa
+Solo,11:54,User_878,user878@gmail.com,82171706934,1999,Samsung,Gaming,Kota
+Semarang,21:29,User_879,user879@gmail.com,89523619721,1971,Vivo,Streaming,Kota
+Semarang,0:48,User_880,user880@gmail.com,81600606244,2002,Oppo,Shopping,Desa
+Jakarta,6:50,User_881,user881@gmail.com,87390930368,1988,Apple,Shopping,Desa
+Solo,11:10,User_882,user882@gmail.com,89293227220,1985,Apple,Streaming,Kota
+Balikpapan,2:48,User_883,user883@gmail.com,87257564998,1998,Xiaomi,Social Media,Desa
+Solo,22:03,User_884,user884@gmail.com,83901850816,1981,Apple,Shopping,Kota
+Bekasi,11:23,User_885,user885@gmail.com,88017641934,1991,Xiaomi,Gaming,Kota
+Semarang,4:07,User_886,user886@gmail.com,89861400028,2006,Xiaomi,Social Media,Kota
+Solo,19:57,User_887,user887@gmail.com,84938568911,1980,Samsung,Gaming,Kota
+Bekasi,18:26,User_888,user888@gmail.com,84325796582,1991,Vivo,Streaming,Kota
+Jakarta,3:40,User_889,user889@gmail.com,88702075977,1992,Samsung,Shopping,Desa
+Bekasi,14:05,User_890,user890@gmail.com,86902730488,2001,Xiaomi,Gaming,Desa
+Jakarta,4:06,User_891,user891@gmail.com,89739993140,1986,Samsung,Shopping,Kota
+Bandung,7:31,User_892,user892@gmail.com,83173938434,2010,Apple,Social Media,Kota
+Surabaya,13:48,User_893,user893@gmail.com,89396438734,1998,Redmi,Streaming,Desa
+Balikpapan,22:11,User_894,user894@gmail.com,82857263828,1987,Xiaomi,Gaming,Kota
+Semarang,23:23,User_895,user895@gmail.com,86389188687,2007,Oppo,Gaming,Kota
+Depok,2:27,User_896,user896@gmail.com,84296172080,1980,Redmi,Gaming,Desa
+Jakarta,3:58,User_897,user897@gmail.com,82405665746,1997,Apple,Gaming,Desa
+Semarang,22:51,User_898,user898@gmail.com,89824421296,1977,Redmi,Streaming,Desa
+Bekasi,21:52,User_899,user899@gmail.com,86019269233,1985,Redmi,Social Media,Desa
+Yogyakarta,5:23,User_900,user900@gmail.com,85671634324,2001,Xiaomi,Social Media,Kota
+Balikpapan,1:43,User_901,user901@gmail.com,84914835060,2005,Vivo,Shopping,Desa
+Semarang,13:08,User_902,user902@gmail.com,88593523417,1977,Oppo,Gaming,Desa
+Yogyakarta,11:07,User_903,user903@gmail.com,85895831777,1978,Redmi,Gaming,Desa
+Depok,14:15,User_904,user904@gmail.com,82532225439,1989,Xiaomi,Shopping,Desa
+Semarang,16:44,User_905,user905@gmail.com,88949325217,1982,Apple,Streaming,Kota
+Depok,6:35,User_906,user906@gmail.com,84314586991,1989,Apple,Streaming,Kota
+Bandung,0:48,User_907,user907@gmail.com,82331170891,1984,Xiaomi,Social Media,Desa
+Surabaya,4:47,User_908,user908@gmail.com,87007992508,1979,Redmi,Gaming,Desa
+Yogyakarta,21:51,User_909,user909@gmail.com,84738467136,1997,Oppo,Shopping,Kota
+Jakarta,20:39,User_910,user910@gmail.com,81927377620,1989,Redmi,Social Media,Desa
+Semarang,3:01,User_911,user911@gmail.com,88452982102,1977,Redmi,Gaming,Desa
+Denpasar,3:00,User_912,user912@gmail.com,87809608797,1992,Samsung,Gaming,Kota
+Bandung,21:20,User_913,user913@gmail.com,84109886589,1976,Xiaomi,Social Media,Desa
+Depok,4:03,User_914,user914@gmail.com,83133548576,1977,Apple,Streaming,Desa
+Denpasar,14:08,User_915,user915@gmail.com,88593599501,1984,Samsung,Streaming,Desa
+Jakarta,20:29,User_916,user916@gmail.com,88845919114,1992,Xiaomi,Social Media,Kota
+Jakarta,19:39,User_917,user917@gmail.com,88493418445,1995,Redmi,Gaming,Kota
+Yogyakarta,7:43,User_918,user918@gmail.com,83500217188,2010,Xiaomi,Shopping,Desa
+Balikpapan,20:05,User_919,user919@gmail.com,81763022135,1997,Samsung,Social Media,Kota
+Bekasi,12:17,User_920,user920@gmail.com,84183636635,1971,Redmi,Social Media,Kota
+Bekasi,12:30,User_921,user921@gmail.com,85269976506,1976,Oppo,Social Media,Desa
+Depok,18:58,User_922,user922@gmail.com,88803402583,1999,Redmi,Social Media,Desa
+Denpasar,19:38,User_923,user923@gmail.com,86399958008,1977,Redmi,Streaming,Kota
+Bekasi,2:29,User_924,user924@gmail.com,87144223024,2004,Vivo,Shopping,Kota
+Bandung,18:07,User_925,user925@gmail.com,88538033893,1992,Vivo,Shopping,Kota
+Jakarta,21:07,User_926,user926@gmail.com,81723354897,1993,Oppo,Shopping,Kota
+Bekasi,2:43,User_927,user927@gmail.com,83695100509,2000,Xiaomi,Shopping,Desa
+Jakarta,20:25,User_928,user928@gmail.com,84339809229,1986,Oppo,Social Media,Kota
+Denpasar,21:13,User_929,user929@gmail.com,86620195860,2003,Xiaomi,Streaming,Desa
+Depok,14:40,User_930,user930@gmail.com,82760856922,1990,Xiaomi,Shopping,Kota
+Solo,1:09,User_931,user931@gmail.com,88247053597,1999,Apple,Shopping,Desa
+Semarang,13:22,User_932,user932@gmail.com,83365403430,1998,Vivo,Social Media,Kota
+Balikpapan,20:56,User_933,user933@gmail.com,83338406721,2009,Vivo,Shopping,Desa
+Balikpapan,1:09,User_934,user934@gmail.com,86750768070,1982,Apple,Gaming,Desa
+Depok,16:42,User_935,user935@gmail.com,82443223907,1976,Redmi,Shopping,Desa
+Balikpapan,8:46,User_936,user936@gmail.com,84945904751,1974,Redmi,Social Media,Kota
+Jakarta,3:46,User_937,user937@gmail.com,83492484959,1984,Samsung,Streaming,Desa
+Depok,21:32,User_938,user938@gmail.com,82760148093,2005,Redmi,Streaming,Desa
+Bekasi,1:19,User_939,user939@gmail.com,82108207962,1988,Apple,Shopping,Kota
+Solo,1:44,User_940,user940@gmail.com,86199443196,1988,Oppo,Shopping,Desa
+Surabaya,6:16,User_941,user941@gmail.com,88076634260,1975,Oppo,Streaming,Kota
+Yogyakarta,6:28,User_942,user942@gmail.com,86476051800,1975,Samsung,Shopping,Desa
+Solo,20:10,User_943,user943@gmail.com,87928654874,2007,Vivo,Social Media,Desa
+Bandung,12:08,User_944,user944@gmail.com,86686211508,1996,Apple,Shopping,Kota
+Surabaya,1:00,User_945,user945@gmail.com,87630110762,2003,Oppo,Streaming,Kota
+Denpasar,14:17,User_946,user946@gmail.com,84395868047,1979,Oppo,Shopping,Desa
+Balikpapan,17:25,User_947,user947@gmail.com,88147429101,2005,Samsung,Streaming,Kota
+Semarang,11:24,User_948,user948@gmail.com,83619303156,2010,Vivo,Social Media,Desa
+Bandung,4:27,User_949,user949@gmail.com,87956915429,1994,Redmi,Gaming,Kota
+Yogyakarta,13:18,User_950,user950@gmail.com,88311598264,2002,Samsung,Social Media,Desa
+Denpasar,15:16,User_951,user951@gmail.com,82293554936,1972,Apple,Shopping,Kota
+Balikpapan,16:48,User_952,user952@gmail.com,85889510742,1999,Samsung,Streaming,Kota
+Denpasar,21:04,User_953,user953@gmail.com,86080981947,1974,Redmi,Streaming,Desa
+Balikpapan,10:16,User_954,user954@gmail.com,87026482042,1977,Redmi,Streaming,Kota
+Yogyakarta,8:40,User_955,user955@gmail.com,82016894077,1998,Apple,Streaming,Kota
+Balikpapan,5:30,User_956,user956@gmail.com,83131049075,1970,Oppo,Social Media,Desa
+Balikpapan,4:39,User_957,user957@gmail.com,87576209893,2009,Apple,Social Media,Kota
+Surabaya,9:21,User_958,user958@gmail.com,89634589816,2005,Xiaomi,Shopping,Kota
+Denpasar,3:15,User_959,user959@gmail.com,85221231091,1987,Xiaomi,Shopping,Desa
+Semarang,22:25,User_960,user960@gmail.com,86637925353,1998,Samsung,Social Media,Kota
+Solo,7:30,User_961,user961@gmail.com,86570327618,1992,Xiaomi,Streaming,Desa
+Depok,1:31,User_962,user962@gmail.com,81512453241,2008,Vivo,Social Media,Desa
+Depok,13:17,User_963,user963@gmail.com,82357678101,1996,Apple,Social Media,Desa
+Denpasar,6:56,User_964,user964@gmail.com,86161664871,1994,Vivo,Streaming,Desa
+Surabaya,18:08,User_965,user965@gmail.com,89954345649,1999,Xiaomi,Streaming,Desa
+Yogyakarta,19:51,User_966,user966@gmail.com,81169582370,2010,Oppo,Streaming,Desa
+Depok,15:26,User_967,user967@gmail.com,87850962870,2003,Redmi,Streaming,Kota
+Surabaya,11:01,User_968,user968@gmail.com,82752969515,1995,Oppo,Streaming,Desa
+Surabaya,11:38,User_969,user969@gmail.com,86631200871,1981,Vivo,Gaming,Kota
+Surabaya,17:53,User_970,user970@gmail.com,86318938092,1991,Oppo,Streaming,Desa
+Bandung,22:10,User_971,user971@gmail.com,86595062648,1972,Xiaomi,Shopping,Desa
+Depok,5:26,User_972,user972@gmail.com,82165825057,1997,Vivo,Shopping,Kota
+Solo,15:34,User_973,user973@gmail.com,89398253444,1982,Oppo,Streaming,Kota
+Semarang,6:01,User_974,user974@gmail.com,86270109609,1989,Apple,Shopping,Kota
+Bandung,22:12,User_975,user975@gmail.com,86113605559,1988,Xiaomi,Social Media,Kota
+Depok,23:17,User_976,user976@gmail.com,85871713608,1975,Xiaomi,Streaming,Desa
+Surabaya,12:34,User_977,user977@gmail.com,82971862066,2009,Apple,Social Media,Desa
+Surabaya,8:33,User_978,user978@gmail.com,88520175257,1993,Vivo,Social Media,Desa
+Bandung,17:06,User_979,user979@gmail.com,81280270620,2003,Apple,Streaming,Kota
+Semarang,11:12,User_980,user980@gmail.com,82518568464,1986,Apple,Social Media,Desa
+Jakarta,5:54,User_981,user981@gmail.com,84839153084,1974,Oppo,Gaming,Desa
+Balikpapan,8:13,User_982,user982@gmail.com,84085046276,1990,Apple,Streaming,Desa
+Balikpapan,12:06,User_983,user983@gmail.com,87850962652,2005,Samsung,Gaming,Kota
+Balikpapan,21:29,User_984,user984@gmail.com,88221407685,1971,Vivo,Shopping,Desa
+Surabaya,19:44,User_985,user985@gmail.com,82486035708,2003,Samsung,Social Media,Kota
+Bekasi,10:07,User_986,user986@gmail.com,85532708104,1973,Xiaomi,Shopping,Kota
+Solo,17:41,User_987,user987@gmail.com,87255559285,1986,Redmi,Gaming,Kota
+Bekasi,4:13,User_988,user988@gmail.com,83875587490,1975,Xiaomi,Streaming,Desa
+Jakarta,5:42,User_989,user989@gmail.com,84700673670,2006,Redmi,Social Media,Desa
+Balikpapan,7:36,User_990,user990@gmail.com,81553012454,2001,Vivo,Social Media,Kota
+Depok,17:41,User_991,user991@gmail.com,83742518809,1972,Vivo,Shopping,Desa
+Surabaya,9:48,User_992,user992@gmail.com,81485450838,1982,Oppo,Social Media,Desa
+Surabaya,16:51,User_993,user993@gmail.com,81920668532,1993,Oppo,Shopping,Kota
+Depok,5:37,User_994,user994@gmail.com,82944734368,1991,Vivo,Gaming,Desa
+Jakarta,15:50,User_995,user995@gmail.com,81758539772,1982,Samsung,Streaming,Kota
+Yogyakarta,5:11,User_996,user996@gmail.com,87645912180,1987,Xiaomi,Social Media,Kota
+Denpasar,18:44,User_997,user997@gmail.com,84966859364,1982,Samsung,Gaming,Kota
+Jakarta,20:03,User_998,user998@gmail.com,81863828986,1979,Xiaomi,Shopping,Desa
+Denpasar,1:20,User_999,user999@gmail.com,88129791262,2002,Redmi,Streaming,Kota
+Solo,11:10,User_1000,user1000@gmail.com,85336897659,1993,Redmi,Gaming,Desa
